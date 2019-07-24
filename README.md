@@ -1,3 +1,3 @@
-# LeetCode
+# Leet Code Solutions
 
-My implementation of Leet Code problems.
+My implementation of some Leet Code problems. ;-)
