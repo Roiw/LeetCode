@@ -5,6 +5,7 @@ My implementation of some Leet Code problems. ;-)
 | #     | Problem Link                                           |  My Solution                                           |
 | ----- | -----------------------------------------------------  | -----------------------------------------------------  |
 | 002   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/2_AddTwoNumbers.py) |      
+| 013   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/13_RomantoInteger.py) |    
 | 100   | [Same Tree](https://leetcode.com/problems/same-tree/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/100_SameTree.py) |      
 | 125   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/125_ValidPalindrome.py) |     
 | 554   | [Brick Wall](https://leetcode.com/problems/brick-wall/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/554_BrickWall.py) |   
