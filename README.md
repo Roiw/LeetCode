@@ -4,6 +4,7 @@ My implementation of some Leet Code problems. ;-)
 
 | #     | Problem Link                                           |  My Solution                                           |
 | ----- | -----------------------------------------------------  | -----------------------------------------------------  |
+| 001   | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/001_TwoSum.py) | 
 | 002   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/002_AddTwoNumbers.py) |      
 | 013   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/013_RomantoInteger.py) |    
 | 100   | [Same Tree](https://leetcode.com/problems/same-tree/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/100_SameTree.py) |      
