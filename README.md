@@ -12,7 +12,8 @@ My implementation of some Leet Code problems. ;-)
 | 551   | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/551_StudentAttendanceRecordI.py) |   
 | 554   | [Brick Wall](https://leetcode.com/problems/brick-wall/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/554_BrickWall.py) |   
 | 575   | [Distribute Candies](https://leetcode.com/problems/distribute-candies/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/575_DistributeCandies.py) |     
-| 661   | [Image Smoother](https://leetcode.com/problems/image-smoother/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/661_ImageSmoother.py) |      
+| 661   | [Image Smoother](https://leetcode.com/problems/image-smoother/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/661_ImageSmoother.py) |    
+| 704   | [Binary Search](https://leetcode.com/problems/binary-search/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/704_BinarySearch.py) |   
 | 821   | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/821_ShortestDistanceToACharacter.py) | 
 | 860   | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/860_LemonadeChange.cs) |      
      
