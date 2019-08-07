@@ -6,15 +6,18 @@ My implementation of some Leet Code problems. ;-)
 | ----- | -----------------------------------------------------  | -----------------------------------------------------  |
 | 001   | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/001_TwoSum.py) | 
 | 002   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/002_AddTwoNumbers.py) |      
-| 013   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/013_RomantoInteger.py) |    
+| 013   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/013_RomantoInteger.py) |   
+| 026   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/26_RemoveDuplicatesFromSortedArray.py) |    
 | 100   | [Same Tree](https://leetcode.com/problems/same-tree/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/100_SameTree.py) |      
 | 125   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/125_ValidPalindrome.py) |     
+| 217   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/217_ContainsDuplicate.py) |    
 | 236   | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/236_LowestCommonAncestorOfABinaryTree.py) |     
 | 475   | [Heaters](https://leetcode.com/problems/heaters/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/475_Heaters.py) |   
 | 551   | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/551_StudentAttendanceRecordI.py) |   
 | 554   | [Brick Wall](https://leetcode.com/problems/brick-wall/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/554_BrickWall.py) |   
 | 575   | [Distribute Candies](https://leetcode.com/problems/distribute-candies/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/575_DistributeCandies.py) |     
 | 661   | [Image Smoother](https://leetcode.com/problems/image-smoother/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/661_ImageSmoother.py) |    
+| 665   | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/665_NonDecreasingArray.py) |    
 | 704   | [Binary Search](https://leetcode.com/problems/binary-search/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/704_BinarySearch.py) |   
 | 821   | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/821_ShortestDistanceToACharacter.py) | 
 | 860   | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/860_LemonadeChange.cs) |      
