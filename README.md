@@ -21,4 +21,4 @@ My implementation of some Leet Code problems. ;-)
 | 704   | [Binary Search](https://leetcode.com/problems/binary-search/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/704_BinarySearch.py) |   
 | 821   | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/821_ShortestDistanceToACharacter.py) |
 | 860   | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/860_LemonadeChange.cs) |      
-| 1002   | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/Python/236_LowestCommonAncestorOfABinaryTree.py) |     
+| 1002   | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1002_FindCommonCharacters.cs) |     
