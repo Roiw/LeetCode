@@ -4,7 +4,7 @@ My implementation of some Leet Code problems. ;-)
 
 | #     | Problem Link                                           |  My Solution                                           |
 | ----- | -----------------------------------------------------  | -----------------------------------------------------  |
-| 001   | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/001_TwoSum.py) | 
+| 001   | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/001_TwoSum.py) |
 | 002   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/002_AddTwoNumbers.py) |      
 | 013   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/013_RomantoInteger.py) |   
 | 026   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/26_RemoveDuplicatesFromSortedArray.py) |    
@@ -19,6 +19,6 @@ My implementation of some Leet Code problems. ;-)
 | 661   | [Image Smoother](https://leetcode.com/problems/image-smoother/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/661_ImageSmoother.py) |    
 | 665   | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/665_NonDecreasingArray.py) |    
 | 704   | [Binary Search](https://leetcode.com/problems/binary-search/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/704_BinarySearch.py) |   
-| 821   | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/821_ShortestDistanceToACharacter.py) | 
+| 821   | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/821_ShortestDistanceToACharacter.py) |
 | 860   | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/860_LemonadeChange.cs) |      
-     
+| 1002   | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/Python/236_LowestCommonAncestorOfABinaryTree.py) |     
