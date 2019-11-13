@@ -23,3 +23,4 @@ My implementation of some Leet Code problems. ;-)
 | 860   | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/860_LemonadeChange.cs) |      
 | 921   | [Minimum Add To Make Parenthesis Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/921_MinimumAddtoMakeParenthesesValid.cs) |      
 | 1002   | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1002_FindCommonCharacters.cs) |     
+| 1108   | [Defanging An Ip Address](https://leetcode.com/problems/defanging-an-ip-address/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/1108_DefangingAnIpAddress.py) |     
