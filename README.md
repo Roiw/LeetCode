@@ -22,6 +22,7 @@ My implementation of some Leet Code problems. ;-)
 | 665   | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/665_NonDecreasingArray.py) |    
 | 704   | [Binary Search](https://leetcode.com/problems/binary-search/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/704_BinarySearch.py) |   
 | 709   | [To Lower Case](https://leetcode.com/problems/to-lower-case/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/709_ToLowerCase.cs) 
+| 763   | [Partition Labels](https://leetcode.com/problems/partition-labels/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/763_PartitionLabels.cs) 
 | 821   | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/821_ShortestDistanceToACharacter.py) |
 | 832   | [Flipping An Image](https://leetcode.com/problems/flipping-an-image/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/832_FlippingAnImage.cs) 
 | 860   | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/860_LemonadeChange.cs) |      
