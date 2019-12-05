@@ -17,12 +17,15 @@ My implementation of some Leet Code problems. ;-)
 | 475   | [Heaters](https://leetcode.com/problems/heaters/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/475_Heaters.py) |   
 | 551   | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/551_StudentAttendanceRecordI.py) |   
 | 554   | [Brick Wall](https://leetcode.com/problems/brick-wall/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/554_BrickWall.py) |   
+| 561   | [Array Partition I](https://leetcode.com/problems/array-partition-i/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/561_ArrayPartitionI.cs) 
 | 575   | [Distribute Candies](https://leetcode.com/problems/distribute-candies/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/575_DistributeCandies.py) |     
 | 661   | [Image Smoother](https://leetcode.com/problems/image-smoother/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/661_ImageSmoother.py) |    
 | 665   | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/665_NonDecreasingArray.py) |    
 | 704   | [Binary Search](https://leetcode.com/problems/binary-search/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/704_BinarySearch.py) |   
 | 709   | [To Lower Case](https://leetcode.com/problems/to-lower-case/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/709_ToLowerCase.cs) 
 | 763   | [Partition Labels](https://leetcode.com/problems/partition-labels/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/763_PartitionLabels.cs) 
+| 771   | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/771_JewelsAndStones.cs) 
+| 807   | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/807_MaxIncreaseToKeepCitySkyline.cs) 
 | 821   | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/821_ShortestDistanceToACharacter.py) |
 | 832   | [Flipping An Image](https://leetcode.com/problems/flipping-an-image/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/832_FlippingAnImage.cs) 
 | 860   | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/860_LemonadeChange.cs) |      
@@ -32,4 +35,5 @@ My implementation of some Leet Code problems. ;-)
 | 1002   | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1002_FindCommonCharacters.cs) |   
 | 1021   | [Remove Outermost Parenthesis](https://leetcode.com/problems/remove-outermost-parentheses/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1021_RemoveOutermostParentheses.cs) |     
 | 1108   | [Defanging An Ip Address](https://leetcode.com/problems/defanging-an-ip-address/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/1108_DefangingAnIpAddress.py) |     
-| 1221   | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1221_SplitAStringInBalancedStrings.cs) |     
+| 1221   | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1221_SplitAStringInBalancedStrings.cs) |  
+| 1252   | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1252_CellsWithOddValuesInAMatrix.cs) |     
