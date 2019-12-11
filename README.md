@@ -1,6 +1,7 @@
 # Leet Code Solutions
 
 My implementation of some Leet Code problems. ;-)
+There is also some data structures and algorithms that I implemented at the Additional folder.
 
 | #     | Problem Link                                           |  My Solution                                           |
 | ----- | -----------------------------------------------------  | -----------------------------------------------------  |
@@ -12,27 +13,32 @@ My implementation of some Leet Code problems. ;-)
 | 125   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/125_ValidPalindrome.py) |     
 | 217   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/217_ContainsDuplicate.py) |    
 | 236   | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/236_LowestCommonAncestorOfABinaryTree.py) |     
-| 459   | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/459_RepeatedSubstringPattern) |   
+| 403   | [Frog Jump](https://leetcode.com/problems/frog-jump/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/403_FrogJump.cs) |   
+| 459   | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/459_RepeatedSubstringPattern.cs) |   
 | 461   | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/461_HammingDistance.cs) |   
 | 475   | [Heaters](https://leetcode.com/problems/heaters/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/475_Heaters.py) |   
 | 551   | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/551_StudentAttendanceRecordI.py) |   
 | 554   | [Brick Wall](https://leetcode.com/problems/brick-wall/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/554_BrickWall.py) |   
 | 561   | [Array Partition I](https://leetcode.com/problems/array-partition-i/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/561_ArrayPartitionI.cs) 
 | 575   | [Distribute Candies](https://leetcode.com/problems/distribute-candies/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/575_DistributeCandies.py) |     
+| 657   | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/657_RobotReturnToOrigin.cs)  |    
 | 661   | [Image Smoother](https://leetcode.com/problems/image-smoother/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/661_ImageSmoother.py) |    
 | 665   | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/665_NonDecreasingArray.py) |    
 | 704   | [Binary Search](https://leetcode.com/problems/binary-search/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/704_BinarySearch.py) |   
 | 709   | [To Lower Case](https://leetcode.com/problems/to-lower-case/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/709_ToLowerCase.cs) 
 | 763   | [Partition Labels](https://leetcode.com/problems/partition-labels/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/763_PartitionLabels.cs) 
 | 771   | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/771_JewelsAndStones.cs) 
+| 797   | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/797_AllPathsFromSourceToTarge.cs) 
 | 807   | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/807_MaxIncreaseToKeepCitySkyline.cs) 
 | 821   | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/821_ShortestDistanceToACharacter.py) |
 | 832   | [Flipping An Image](https://leetcode.com/problems/flipping-an-image/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/832_FlippingAnImage.cs) 
 | 860   | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/860_LemonadeChange.cs) |      
+| 890   | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/890_FindAndReplacePattern.cs) |      
 | 894   | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/894_AllPossibleFullBinaryTrees.cs) |      
 | 905   | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/905_SortArrayByParity.cs) | 
 | 921   | [Minimum Add To Make Parenthesis Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/921_MinimumAddtoMakeParenthesesValid.cs) |      
 | 1002   | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1002_FindCommonCharacters.cs) |   
+| 1007   | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1007_MinimumDominoRotationsForEqualRow.cs) |   
 | 1021   | [Remove Outermost Parenthesis](https://leetcode.com/problems/remove-outermost-parentheses/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1021_RemoveOutermostParentheses.cs) |     
 | 1108   | [Defanging An Ip Address](https://leetcode.com/problems/defanging-an-ip-address/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/1108_DefangingAnIpAddress.py) |     
 | 1221   | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1221_SplitAStringInBalancedStrings.cs) |  
