@@ -1,7 +1,6 @@
 # Leet Code Solutions
 
-My implementation of some Leet Code problems. ;-)
-There is also some data structures and algorithms that I implemented at the Additional folder.
+My implementation of some Leet Code problems, data structures and algorithms. ;-)
 
 | #     | Problem Link                                           |  My Solution                                           |
 | ----- | -----------------------------------------------------  | -----------------------------------------------------  |
