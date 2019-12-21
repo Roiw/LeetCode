@@ -4,7 +4,7 @@ My implementation of some Leet Code problems, data structures and algorithms. ;-
 
 | #     | Problem Link                                           |  My Solution                                           |
 | ----- | -----------------------------------------------------  | -----------------------------------------------------  |
-| 001   | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/001_TwoSum.py), [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1_TwoSum.cs |
+| 001   | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/001_TwoSum.py), [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1_TwoSum.cs) |
 | 002   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/002_AddTwoNumbers.py) |      
 | 007   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/7_ReverseInteger.cs) |   
 | 013   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/013_RomantoInteger.py) |   
@@ -20,7 +20,7 @@ My implementation of some Leet Code problems, data structures and algorithms. ;-
 | 189   | [Rotate Array](https://leetcode.com/problems/rotate-array/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/189_RotateArray.cs) |   
 | 200   | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/200_NumberOfIslands.cs) |   
 | 217   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/217_ContainsDuplicate.py) |    
-| 236   | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/236_LowestCommonAncestorOfABinaryTree.py), [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/236_LowestCommonAncestorOfABinaryTree.cs |    
+| 236   | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/236_LowestCommonAncestorOfABinaryTree.py), [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/236_LowestCommonAncestorOfABinaryTree.cs) |    
 | 268   | [Missing Number](https://leetcode.com/problems/missing-number/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/268_MissingNumber.cs) |   
 | 403   | [Frog Jump](https://leetcode.com/problems/frog-jump/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/403_FrogJump.cs) |   
 | 459   | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/459_RepeatedSubstringPattern.cs) |   
