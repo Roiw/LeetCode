@@ -4,14 +4,24 @@ My implementation of some Leet Code problems, data structures and algorithms. ;-
 
 | #     | Problem Link                                           |  My Solution                                           |
 | ----- | -----------------------------------------------------  | -----------------------------------------------------  |
-| 001   | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/001_TwoSum.py) |
+| 001   | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/001_TwoSum.py), [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1_TwoSum.cs |
 | 002   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/002_AddTwoNumbers.py) |      
+| 007   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/7_ReverseInteger.cs) |   
 | 013   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/013_RomantoInteger.py) |   
+| 020   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/20_ValidParentheses.cs) |   
+| 021   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/21_MergeTwoSortedLists.cs) |   
 | 026   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/26_RemoveDuplicatesFromSortedArray.py) |    
+| 053   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/53_MaximumSubarray.cs) |   
 | 100   | [Same Tree](https://leetcode.com/problems/same-tree/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/100_SameTree.py) |      
+| 112   | [Path Sum](https://leetcode.com/problems/path-sum/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/112_PathSum.cs) |   
 | 125   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/125_ValidPalindrome.py) |     
+| 155   | [Min Stack](https://leetcode.com/problems/min-stack/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/155_MinStack.cs) |   
+| 162   | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/162_FindPeakElement.cs) |
+| 189   | [Rotate Array](https://leetcode.com/problems/rotate-array/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/189_RotateArray.cs) |   
+| 200   | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/200_NumberOfIslands.cs) |   
 | 217   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/217_ContainsDuplicate.py) |    
-| 236   | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/236_LowestCommonAncestorOfABinaryTree.py) |     
+| 236   | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/236_LowestCommonAncestorOfABinaryTree.py), [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/236_LowestCommonAncestorOfABinaryTree.cs |    
+| 268   | [Missing Number](https://leetcode.com/problems/missing-number/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/268_MissingNumber.cs) |   
 | 403   | [Frog Jump](https://leetcode.com/problems/frog-jump/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/403_FrogJump.cs) |   
 | 459   | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/459_RepeatedSubstringPattern.cs) |   
 | 461   | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/461_HammingDistance.cs) |   
