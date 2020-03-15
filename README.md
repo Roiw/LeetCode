@@ -60,3 +60,4 @@ My implementation of some Leet Code problems, data structures and algorithms. ;-
 | 1165   | [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1165_SingleRowKeyboard.cs) |     
 | 1221   | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1221_SplitAStringInBalancedStrings.cs) |  
 | 1252   | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1252_CellsWithOddValuesInAMatrix.cs) |     
+| 1374   | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1374_GenerateAStringWithCharactersThatHaveOddCounts.cs) |     
