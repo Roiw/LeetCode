@@ -1,6 +1,6 @@
 # Leet Code Solutions
 
-My implementation of some Leet Code problems, data structures and algorithms. ;-)
+My implementation of some Leet Code problems, data structures and algorithms.
 
 | #     | Problem Link                                           |  My Solution                                           |
 | ----- | -----------------------------------------------------  | -----------------------------------------------------  |
