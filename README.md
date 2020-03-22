@@ -24,6 +24,7 @@ My implementation of some Leet Code problems, data structures and algorithms. ;-
 | 268   | [Missing Number](https://leetcode.com/problems/missing-number/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/268_MissingNumber.cs) |   
 | 299   | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/299_BullsAndCows.cs) |
 | 359   | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/359_LoggerRateLimiter.cs) |   
+| 338   | [Counting Bits](https://leetcode.com/problems/counting-bits/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/338_CountingBits.cs)  |    
 | 403   | [Frog Jump](https://leetcode.com/problems/frog-jump/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/403_FrogJump.cs) |   
 | 459   | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/459_RepeatedSubstringPattern.cs) |   
 | 461   | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/461_HammingDistance.cs) |   
