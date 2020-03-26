@@ -62,8 +62,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1221   | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1221_SplitAStringInBalancedStrings.cs) |  
 | 1252   | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1252_CellsWithOddValuesInAMatrix.cs) |     
 | 1281   | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1281_SubtractTheProductAndSumOfDigitsOfAnInteger.cs) |  
+| 1282   | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1282_GroupThePeopleGivenTheGroupSizeTheyBelongTo.cs) |  
 | 1302   | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1302_DeepestLeavesSum.cs) |     
 | 1365   | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1365_HowManyNumbersAreSmallerThanTheCurrentNumber.cs) |     
 | 1374   | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1374_GenerateAStringWithCharactersThatHaveOddCounts.cs) |     
-
-
