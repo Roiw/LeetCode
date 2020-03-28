@@ -15,6 +15,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 100   | [Same Tree](https://leetcode.com/problems/same-tree/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/100_SameTree.py) |      
 | 112   | [Path Sum](https://leetcode.com/problems/path-sum/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/112_PathSum.cs) |   
 | 125   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/125_ValidPalindrome.py) |     
+| 128   | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/128_LongestConsecutiveSequence.cs) |   
 | 155   | [Min Stack](https://leetcode.com/problems/min-stack/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/155_MinStack.cs) |   
 | 162   | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/162_FindPeakElement.cs) |
 | 189   | [Rotate Array](https://leetcode.com/problems/rotate-array/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/189_RotateArray.cs) |   
