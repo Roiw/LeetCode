@@ -23,16 +23,16 @@ public class Solution {
             if (pickSmallest) {
                 result += nS[0]; nS.RemoveAt(0); // Step 1..
                 j = 0;
-                while ( j < nS.Count && result[result.Length -1] <= nS[j]) {
+                while ( j < nS.Count && result[result.Length -1] <= nS[j]) { // Step 2..
                     if (result[result.Length -1] < nS[j]) {result += nS[j]; nS.RemoveAt(j);}
                     else j++;
                 }
                 pickSmallest = false;
             }
             else {
-                result += nS[nS.Count-1]; nS.RemoveAt(nS.Count-1); // Step 1..
+                result += nS[nS.Count-1]; nS.RemoveAt(nS.Count-1); // Step 4..
                 j = nS.Count-1;
-                while (j >= 0 && result[result.Length-1] >= nS[j]) {
+                while (j >= 0 && result[result.Length-1] >= nS[j]) { // Step 5..
                     if (result[result.Length -1] > nS[j]) {result += nS[j]; nS.RemoveAt(j);}
                     j--;
                 }
