@@ -10,7 +10,9 @@ My implementation of some Leet Code problems, data structures and algorithms
 | 013   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/013_RomantoInteger.py) |   
 | 020   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/20_ValidParentheses.cs) |   
 | 021   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/21_MergeTwoSortedLists.cs) |   
-| 026   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/26_RemoveDuplicatesFromSortedArray.py) |    
+| 026   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Python](https://github.com/Roiw/LeetCode/blob/
+master/Python/26_RemoveDuplicatesFromSortedArray.py) |    
+| 049   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/49_GroupAnagrams.cs) |   
 | 053   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/53_MaximumSubarray.cs) |   
 | 100   | [Same Tree](https://leetcode.com/problems/same-tree/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/100_SameTree.py) |      
 | 112   | [Path Sum](https://leetcode.com/problems/path-sum/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/112_PathSum.cs) |   
