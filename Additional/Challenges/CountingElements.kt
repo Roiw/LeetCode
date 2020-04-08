@@ -33,44 +33,15 @@
 * 0 <= arr[i] <= 1000
 */
 
-/* NOTICE: This is an initial rough solution that need optimization! */
 class Solution {
     fun countElements(arr: IntArray): Int {
         var total :Int = 0 
-        val hMap = mutableMapOf<Int,Int>()
-        for (i in arr){
-            hMap[i] = hMap.getOrDefault(i, 0) + 1
-        }     
-        var hSet = arr.toMutableSet()
-        var found = mutableListOf<Int>()
-        var curr:Int = 0;     
-        while (hSet.size > 0) {    
-            for (element in hSet) { curr = element; break }
-            hSet.remove(curr)
-            found.addAll(recursiveFind(hSet,curr))
-            
-            // Calculate found size..
-            var size = 0            
-            for (f in found){
-                size = size + hMap.getOrDefault(f,0)
+        val hSet = arr.toSet()     
+        for (i in arr) {
+            if (hSet.contains(i + 1)){
+                total += 1
             }
-            if (size > total) total = size
-        }       
+        }
         return total
-    }
-    
-    fun recursiveFind(hSet: MutableSet<Int>, curr: Int): MutableList<Int> {
-        var found = mutableListOf<Int>()
-        if (hSet.contains(curr + 1)) { // Check forward
-            found.add(curr)
-            hSet.remove(curr + 1)
-            found.addAll(recursiveFind(hSet, curr + 1))
-        }
-        if (hSet.contains(curr - 1)) {
-            found.add(curr - 1)
-            hSet.remove(curr - 1)
-            found.addAll(recursiveFind(hSet, curr - 1))
-        }
-        return found
     }
 }
