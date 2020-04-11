@@ -4,7 +4,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 
 | #     | Problem Link                                           |  My Solution                                           |
 | ----- | -----------------------------------------------------  | -----------------------------------------------------  |
-| 001   | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/001_TwoSum.py), [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1_TwoSum.cs) |
+| 001   | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/001_TwoSum.py), [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1_TwoSum.cs), [Kotlin](https://github.com/Roiw/LeetCode/blob/master/Kotlin/1_TwoSum.kt) |
 | 002   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/002_AddTwoNumbers.py) |      
 | 007   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/7_ReverseInteger.cs) |   
 | 013   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/013_RomantoInteger.py) |   
