@@ -18,6 +18,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 122   | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)  | [Kotlin](https://github.com/Roiw/LeetCode/blob/master/Kotlin/122_BestTimeToBuyAndSellStockII.kt) |   
 | 125   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/125_ValidPalindrome.py) |     
 | 128   | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/128_LongestConsecutiveSequence.cs) |   
+| 136   | [Single Number](https://leetcode.com/problems/single-number/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/136_SingleNumber.cs), [Kotlin](https://github.com/Roiw/LeetCode/blob/master/Kotlin/136_SingleNumber.kt) |   
 | 155   | [Min Stack](https://leetcode.com/problems/min-stack/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/155_MinStack.cs) |   
 | 162   | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/162_FindPeakElement.cs) |
 | 189   | [Rotate Array](https://leetcode.com/problems/rotate-array/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/189_RotateArray.cs) |   
