@@ -13,6 +13,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 026   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/26_RemoveDuplicatesFromSortedArray.py) |    
 | 049   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/49_GroupAnagrams.cs) |   
 | 053   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/53_MaximumSubarray.cs) |   
+| 066   | [Plus One](https://leetcode.com/problems/plus-one/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/66_PlusOne.cs) |   
 | 100   | [Same Tree](https://leetcode.com/problems/same-tree/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/100_SameTree.py) |      
 | 112   | [Path Sum](https://leetcode.com/problems/path-sum/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/112_PathSum.cs) |   
 | 122   | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)  | [Kotlin](https://github.com/Roiw/LeetCode/blob/master/Kotlin/122_BestTimeToBuyAndSellStockII.kt) |   
