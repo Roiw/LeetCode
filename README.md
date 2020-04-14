@@ -35,6 +35,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 459   | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/459_RepeatedSubstringPattern.cs) |   
 | 461   | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/461_HammingDistance.cs) |   
 | 475   | [Heaters](https://leetcode.com/problems/heaters/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/475_Heaters.py) |   
+| 525   | [Contiguous Array](https://leetcode.com/problems/contiguous-array/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/525_ContiguousArray.cs) |   
 | 543   | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/543_DiameterOfBinaryTree.cs) |   
 | 551   | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/551_StudentAttendanceRecordI.py) |   
 | 554   | [Brick Wall](https://leetcode.com/problems/brick-wall/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/554_BrickWall.py) |   
