@@ -47,6 +47,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 657   | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/657_RobotReturnToOrigin.cs)  |    
 | 661   | [Image Smoother](https://leetcode.com/problems/image-smoother/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/661_ImageSmoother.py) |    
 | 665   | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/665_NonDecreasingArray.py) |    
+| 678   | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/678_ValidParenthesisString.cs)  |    
 | 704   | [Binary Search](https://leetcode.com/problems/binary-search/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/704_BinarySearch.py) |   
 | 709   | [To Lower Case](https://leetcode.com/problems/to-lower-case/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/709_ToLowerCase.cs) 
 | 763   | [Partition Labels](https://leetcode.com/problems/partition-labels/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/763_PartitionLabels.cs) 
