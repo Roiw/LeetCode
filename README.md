@@ -77,6 +77,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1108   | [Defanging An Ip Address](https://leetcode.com/problems/defanging-an-ip-address/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/1108_DefangingAnIpAddress.py) |     
 | 1110   | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1110_DeleteNodesAndReturnForest.cs) |     
 | 1165   | [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1165_SingleRowKeyboard.cs) |     
+| 1207   | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1207_UniqueNumberOfOccurrences.cs) |     
 | 1221   | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1221_SplitAStringInBalancedStrings.cs) |  
 | 1252   | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1252_CellsWithOddValuesInAMatrix.cs) |     
 | 1266   | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1266_MinimumTimeVisitingAllPoints.cs) |     
