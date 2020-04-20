@@ -11,6 +11,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 020   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/20_ValidParentheses.cs) |   
 | 021   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/21_MergeTwoSortedLists.cs) |   
 | 026   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/26_RemoveDuplicatesFromSortedArray.py), [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/26_RemoveDuplicatesFromSortedArray.cs) |    
+| 033   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/33_SearchInRotatedSortedArray.cs) |   
 | 049   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/49_GroupAnagrams.cs) |   
 | 053   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/53_MaximumSubarray.cs) |   
 | 064   | [Maximum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/64_MinimumPathSum.cs) |   
