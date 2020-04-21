@@ -73,6 +73,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 981   | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/981_TimeBasedKey-ValueStore.cs) |      
 | 1002   | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1002_FindCommonCharacters.cs) |   
 | 1007   | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1007_MinimumDominoRotationsForEqualRow.cs) |   
+| 1008   | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1008_ConstructBinarySearchTreeFromPreorderTraversal.cs) |   
 | 1021   | [Remove Outermost Parenthesis](https://leetcode.com/problems/remove-outermost-parentheses/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1021_RemoveOutermostParentheses.cs) | 
 | 1046   | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1046_LastStoneWeight.cs) |       
 | 1055   | [Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/1055_ShortestWayToFormString.cs) |     
