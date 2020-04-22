@@ -45,6 +45,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 543   | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/543_DiameterOfBinaryTree.cs) |   
 | 551   | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/551_StudentAttendanceRecordI.py) |   
 | 554   | [Brick Wall](https://leetcode.com/problems/brick-wall/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/554_BrickWall.py) |   
+| 560   | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/560_SubarraySumEqualsK.cs) 
 | 561   | [Array Partition I](https://leetcode.com/problems/array-partition-i/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/561_ArrayPartitionI.cs) 
 | 575   | [Distribute Candies](https://leetcode.com/problems/distribute-candies/)  | [Python](https://github.com/Roiw/LeetCode/blob/master/Python/575_DistributeCandies.py) |     
 | 657   | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)  | [C#](https://github.com/Roiw/LeetCode/blob/master/C%23/657_RobotReturnToOrigin.cs)  |    
