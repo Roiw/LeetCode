@@ -1,23 +1,13 @@
 public class LRUCache {
     
-    private class Node {
-        public Node Front;
-        public Node Back;
-        public int Key;
-        public Node(){
-            Back = null;
-            Front = null;
-        }
-    }
-    
-    Dictionary<int,(int, Node)> vals = new Dictionary<int,(int, Node)>();
-    
-    private Node _manager = null;
-    private int _capacity = 0;
-    private int _count = 0;
+    Dictionary<int,(int, LinkedListNode<int>)> vals;
+	LinkedList<int> ls;
+	private int _count = 0;
+	private int _capacity = 0;
     
     public LRUCache(int capacity) {
-        _manager = new Node();
+		ls = new LinkedList<int>();
+		vals = new Dictionary<int,(int, LinkedListNode<int>)>();
         _capacity = capacity;
     }
     
@@ -25,64 +15,32 @@ public class LRUCache {
         if (!vals.ContainsKey(key))
             return -1;
         
-        (int val, Node n) = vals[key];     
-        MoveToFront(n);
+        (int val, LinkedListNode<int> n) = vals[key];     
+		int k = n.Value;
+        ls.Remove(n);
+		vals[key] = (val, ls.AddLast(k));
         return val;
     }
     
     public void Put(int key, int value) {
         if (vals.ContainsKey(key)){
-            (int val, Node node) = vals[key]; 
-            vals[key]= (value, node);
-            MoveToFront(node);
+            (int val, LinkedListNode<int> node) = vals[key]; 
+            int k = node.Value;
+        	ls.Remove(node);
+			vals[key] = (value, ls.AddLast(k));
             return;
         }   
             
         if (_capacity == _count) {
-            int k = RemoveLessPriority();
+            int k = ls.First.Value;
+			ls.RemoveFirst();
             vals.Remove(k);       
         } else {
             _count++;
         }
         
         // Add normally..
-        Node n = new Node();
-        n.Key = key;
-        if (_count == 1) _manager.Back = n;
-        ConnectAtFront(n);
-        vals.Add(key, (value, n));   
-    }
-    
-    // Moves an element on our list to the front.
-    private void MoveToFront(Node n){
-        if (_manager.Front == n)
-            return;
-        
-        // Disconnect N..
-        if (n.Front != null) n.Front.Back = n.Back;
-        if (n.Back != null) n.Back.Front = n.Front;
-            
-        // Connect at beginning..
-        n.Back = _manager.Front;
-		if(_manager.Back == n && n.Front != null) _manager.Back = n.Front; 
-        if (_manager.Front != null) _manager.Front.Front = n;
-        _manager.Front = n;
-        n.Front = null;
-    }
-    
-    private void ConnectAtFront(Node n){
-        if (_manager.Front != null) _manager.Front.Front = n;
-        n.Back = _manager.Front;
-        _manager.Front = n;
-    }
-    
-    private int RemoveLessPriority(){
-        if (_manager.Back != null) {
-            int k = _manager.Back.Key;
-            _manager.Back = _manager.Back.Front;
-            return k;
-        } 
-        return -1;
+        vals[key] = (value, ls.AddLast(key));
     }
 }
 
