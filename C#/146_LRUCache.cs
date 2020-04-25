@@ -2,7 +2,6 @@ public class LRUCache {
     
     Dictionary<int,(int, LinkedListNode<int>)> vals;
 	LinkedList<int> ls;
-	private int _count = 0;
 	private int _capacity = 0;
     
     public LRUCache(int capacity) {
@@ -31,14 +30,11 @@ public class LRUCache {
 		return;
 	    }   
             
-	    if (_capacity == _count) {
+	    if (_capacity == ls.Count)  {
 		    int k = ls.First.Value;
 		    ls.RemoveFirst();
 		    vals.Remove(k);       
-	    } else {
-		    _count++;
 	    }
-        
 	    // Add normally..
 	    vals[key] = (value, ls.AddLast(key));
     }
