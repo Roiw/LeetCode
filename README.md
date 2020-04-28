@@ -15,7 +15,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 049   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)  | [C#](C%23/49_GroupAnagrams.cs) |   
 | 053   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | [C#](C%23/53_MaximumSubarray.cs) |   
 | 055   | [Jump Game](https://leetcode.com/problems/jump-game/)  | [C#](C%23/55_JumpGame.cs) |   
-| 064   | [Maximum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  | [C#](C%23/64_MinimumPathSum.cs) |   
+| 064   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  | [C#](C%23/64_MinimumPathSum.cs) |   
 | 066   | [Plus One](https://leetcode.com/problems/plus-one/)  | [C#](C%23/66_PlusOne.cs) |   
 | 100   | [Same Tree](https://leetcode.com/problems/same-tree/)  | [Python](Python/100_SameTree.py) |      
 | 112   | [Path Sum](https://leetcode.com/problems/path-sum/)  | [C#](C%23/112_PathSum.cs) |   
@@ -52,6 +52,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 560   | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)  | [C#](C%23/560_SubarraySumEqualsK.cs) 
 | 561   | [Array Partition I](https://leetcode.com/problems/array-partition-i/)  | [C#](C%23/561_ArrayPartitionI.cs) 
 | 575   | [Distribute Candies](https://leetcode.com/problems/distribute-candies/)  | [Python](Python/575_DistributeCandies.py) |     
+| 590   | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)  | [C#](C%23/590_N-aryTreePostorderTraversal.cs)  
 | 657   | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)  | [C#](C%23/657_RobotReturnToOrigin.cs)  |    
 | 661   | [Image Smoother](https://leetcode.com/problems/image-smoother/)  | [Python](Python/661_ImageSmoother.py) |    
 | 665   | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)  | [Python](Python/665_NonDecreasingArray.py) |    
