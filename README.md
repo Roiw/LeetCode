@@ -32,6 +32,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 201   | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [C#](C%23/201_BitwiseANDOfNumbersRange.cs) |   
 | 202   | [Happy Number](https://leetcode.com/problems/happy-number/) | [C#](C%23/202_HappyNumber.cs) |   
 | 217   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  | [Python](Python/217_ContainsDuplicate.py), [C#](C%23/217_ContainsDuplicate.cs) |    
+| 221   | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [C#](C%23/221_MaximalSquare.cs) |   
 | 236   | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  | [Python](Python/236_LowestCommonAncestorOfABinaryTree.py), [C#](C%23/236_LowestCommonAncestorOfABinaryTree.cs) |    
 | 238   | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C#](C%23/238_ProductOfArrayExceptSelf.cs) |   
 | 268   | [Missing Number](https://leetcode.com/problems/missing-number/)  | [C#](C%23/268_MissingNumber.cs) |   
