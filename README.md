@@ -20,6 +20,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 100   | [Same Tree](https://leetcode.com/problems/same-tree/)  | [Python](Python/100_SameTree.py) |      
 | 112   | [Path Sum](https://leetcode.com/problems/path-sum/)  | [C#](C%23/112_PathSum.cs) |   
 | 122   | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)  | [Kotlin](Kotlin/122_BestTimeToBuyAndSellStockII.kt) |   
+| 124   | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)  | [C#](C%23/124_BinaryTreeMaximumPathSum.cs) |   
 | 125   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  | [Python](Python/125_ValidPalindrome.py), [C#](C%23/125_ValidPalindrome.cs) |     
 | 128   | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)  | [C#](C%23/128_LongestConsecutiveSequence.cs) |   
 | 136   | [Single Number](https://leetcode.com/problems/single-number/)  | [C#](C%23/136_SingleNumber.cs), [Kotlin](Kotlin/136_SingleNumber.kt) |   
