@@ -17,6 +17,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 055   | [Jump Game](https://leetcode.com/problems/jump-game/)  | [C#](C%23/55_JumpGame.cs) |   
 | 064   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  | [C#](C%23/64_MinimumPathSum.cs) |   
 | 066   | [Plus One](https://leetcode.com/problems/plus-one/)  | [C#](C%23/66_PlusOne.cs) |   
+| 073   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)  | [C#](C%23/73_SetMatrixZeroes.cs) |   
 | 100   | [Same Tree](https://leetcode.com/problems/same-tree/)  | [Python](Python/100_SameTree.py) |      
 | 112   | [Path Sum](https://leetcode.com/problems/path-sum/)  | [C#](C%23/112_PathSum.cs) |   
 | 122   | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)  | [Kotlin](Kotlin/122_BestTimeToBuyAndSellStockII.kt) |   
