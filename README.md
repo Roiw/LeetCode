@@ -38,6 +38,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 236   | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  | [Python](Python/236_LowestCommonAncestorOfABinaryTree.py), [C#](C%23/236_LowestCommonAncestorOfABinaryTree.cs) |    
 | 238   | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C#](C%23/238_ProductOfArrayExceptSelf.cs) |   
 | 268   | [Missing Number](https://leetcode.com/problems/missing-number/)  | [C#](C%23/268_MissingNumber.cs) |   
+| 278   | [First Bad Version](https://leetcode.com/problems/first-bad-version/)  | [C#](C%23/278_FirstBadVersion.cs) |   
 | 283   | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | [Kotlin](Kotlin/283_MoveZeroes.kt) |   
 | 299   | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | [C#](C%23/299_BullsAndCows.cs) |
 | 304   | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)  | [C#](C%23/304_RangeSumQuery2DImmutable.cs) |
