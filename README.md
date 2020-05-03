@@ -88,6 +88,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1007   | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)  | [C#](C%23/1007_MinimumDominoRotationsForEqualRow.cs) |   
 | 1008   | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)  | [C#](C%23/1008_ConstructBinarySearchTreeFromPreorderTraversal.cs) |   
 | 1021   | [Remove Outermost Parenthesis](https://leetcode.com/problems/remove-outermost-parentheses/)  | [C#](C%23/1021_RemoveOutermostParentheses.cs) | 
+| 1028   | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)  | [C#](C%23/1028_RecoverATreeFromPreorderTraversal.cs) |
 | 1046   | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)  | [C#](C%23/1046_LastStoneWeight.cs) |       
 | 1055   | [Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/)  | [C#](C%23/1055_ShortestWayToFormString.cs) |     
 | 1108   | [Defanging An Ip Address](https://leetcode.com/problems/defanging-an-ip-address/)  | [Python](Python/1108_DefangingAnIpAddress.py) |     
