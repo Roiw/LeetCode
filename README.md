@@ -44,6 +44,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 304   | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)  | [C#](C%23/304_RangeSumQuery2DImmutable.cs) |
 | 359   | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)  | [C#](C%23/359_LoggerRateLimiter.cs) |   
 | 338   | [Counting Bits](https://leetcode.com/problems/counting-bits/)  | [C#](C%23/338_CountingBits.cs) 
+| 383   | [Ransom Note](https://leetcode.com/problems/ransom-note/)  | [C#](C%23/383_RansomNote.cs) 
 | 387   | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)  | [C#](C%23/387_FirstUniqueCharacterInAString.cs), [Kotlin](Kotlin/387_FirstUniqueCharacterInAString.kt) |     |    
 | 403   | [Frog Jump](https://leetcode.com/problems/frog-jump/)  | [C#](C%23/403_FrogJump.cs) |   
 | 459   | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)  | [C#](C%23/459_RepeatedSubstringPattern.cs) |   
