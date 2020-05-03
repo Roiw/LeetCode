@@ -19,7 +19,7 @@ public class Solution {
         int initial  = 0;
         (initial, index) = GetNumber(S, index);       
         
-        // Map string to Dictionary..
+        // Map string to Queue..
         while (index < S.Length) {
             int depth = CountDash(S, index);
             index += depth;
