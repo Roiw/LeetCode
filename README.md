@@ -113,3 +113,4 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1365   | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)  | [C#](C%23/1365_HowManyNumbersAreSmallerThanTheCurrentNumber.cs) |     
 | 1370   | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)  | [C#](C%23/1370_IncreasingDecreasingString.cs) |     
 | 1374   | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)  | [C#](C%23/1374_GenerateAStringWithCharactersThatHaveOddCounts.cs) |     
+| 1379   | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)  | [C#](C%23/1379_FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.cs) |     
