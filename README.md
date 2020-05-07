@@ -32,6 +32,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 146   | [LRU Cache](https://leetcode.com/problems/lru-cache/)  | [C#](C%23/146_LRUCache.cs) |   
 | 155   | [Min Stack](https://leetcode.com/problems/min-stack/)  | [C#](C%23/155_MinStack.cs) |   
 | 162   | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)  | [C#](C%23/162_FindPeakElement.cs) |
+| 169   | [Majority Element](https://leetcode.com/problems/majority-element/)  | [C#](C%23/169_MajorityElement.cs) |
 | 189   | [Rotate Array](https://leetcode.com/problems/rotate-array/)  | [C#](C%23/189_RotateArray.cs) |   
 | 200   | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C#](C%23/200_NumberOfIslands.cs) |   
 | 201   | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [C#](C%23/201_BitwiseANDOfNumbersRange.cs) |   
