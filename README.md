@@ -111,6 +111,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1290   | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)  | [C#](C%23/1290_ConvertBinaryNumberInALinkedListToInteger) |  
 | 1295   | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)  | [C#](C%23/1295_FindNumbersWithEvenNumberOfDigits.cs) |  
 | 1302   | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)  | [C#](C%23/1302_DeepestLeavesSum.cs) |     
+| 1315   | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)  | [C#](C%23/1315_SumOfNodesWithEven-ValuedGrandparent.cs) |     
 | 1323   | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)  | [C#](C%23/1323_Maximum69Number.cs) |   
 | 1342   | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)  | [C#](C%23/1342_NumberOfStepsToReduceANumberToZero.cs) |     
 | 1365   | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)  | [C#](C%23/1365_HowManyNumbersAreSmallerThanTheCurrentNumber.cs) |     
