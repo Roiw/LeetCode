@@ -34,6 +34,8 @@ public class Solution {
                 else
                     return false;
             }
+            if (targetDepth != -1 && depth > targetDepth )
+                return false;
             
             if (n.left != null) queue.Enqueue((n.left, depth+1, n));
             if (n.right != null) queue.Enqueue((n.right, depth+1, n));
