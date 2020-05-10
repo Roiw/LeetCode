@@ -93,6 +93,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 977   | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  | [C#](C%23/977_SquaresOfASortedArray.cs) |      
 | 981   | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)  | [C#](C%23/981_TimeBasedKey-ValueStore.cs) |      
 | 993   | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)  | [C#](C%23/993_CousinsInBinaryTree.cs) |      
+| 997   | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)  | [C#](C%23/997_FindTheTownJudge.cs) |      
 | 1002   | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)  | [C#](C%23/1002_FindCommonCharacters.cs) |   
 | 1007   | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)  | [C#](C%23/1007_MinimumDominoRotationsForEqualRow.cs) |   
 | 1008   | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)  | [C#](C%23/1008_ConstructBinarySearchTreeFromPreorderTraversal.cs) |   
