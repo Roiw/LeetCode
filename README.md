@@ -120,6 +120,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1305   | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)  | [C#](C%23/1305_AllElementsInTwoBinarySearchTrees.cs) |     
 | 1315   | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)  | [C#](C%23/1315_SumOfNodesWithEven-ValuedGrandparent.cs) |     
 | 1323   | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)  | [C#](C%23/1323_Maximum69Number.cs) |   
+| 1325   | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)  | [C#](C%23/1325_DeleteLeavesWithAGivenValue.cs) |   
 | 1329   | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)  | [C#](C%23/1329_SortTheMatrixDiagonally.cs) |   
 | 1342   | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)  | [C#](C%23/1342_NumberOfStepsToReduceANumberToZero.cs) |     
 | 1365   | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)  | [C#](C%23/1365_HowManyNumbersAreSmallerThanTheCurrentNumber.cs) |     
