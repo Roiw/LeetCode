@@ -2,6 +2,9 @@ public class Solution {
     
     public int[][] FloodFill(int[][] image, int sr, int sc, int newColor) {
         
+        // Optimization
+        if(image[sr][sc] == newColor) return image;
+        
         //BFS
         Queue<(int,int)> _toCheck = new Queue<(int,int)>();
         HashSet<(int,int)> _alreadyAdded = new HashSet<(int,int)>();
