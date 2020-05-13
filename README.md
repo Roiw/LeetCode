@@ -57,6 +57,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 476   | [Number Complement](https://leetcode.com/problems/number-complement/)  | [C#](C%23/476_NumberComplement.cs) |   
 | 475   | [Heaters](https://leetcode.com/problems/heaters/)  | [Python](Python/475_Heaters.py) |   
 | 525   | [Contiguous Array](https://leetcode.com/problems/contiguous-array/)  | [C#](C%23/525_ContiguousArray.cs) |   
+| 540   | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)  | [C#](C%23/540_SingleElementInASortedArray.cs) |   
 | 543   | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)  | [C#](C%23/543_DiameterOfBinaryTree.cs) |   
 | 551   | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)  | [Python](Python/551_StudentAttendanceRecordI.py) |   
 | 554   | [Brick Wall](https://leetcode.com/problems/brick-wall/)  | [Python](Python/554_BrickWall.py) |   
