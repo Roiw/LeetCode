@@ -51,6 +51,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 367   | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)  | [C#](C%23/367_ValidPerfectSquare.cs) 
 | 383   | [Ransom Note](https://leetcode.com/problems/ransom-note/)  | [C#](C%23/383_RansomNote.cs) 
 | 387   | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)  | [C#](C%23/387_FirstUniqueCharacterInAString.cs), [Kotlin](Kotlin/387_FirstUniqueCharacterInAString.kt) |     |    
+| 402   | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)  | [C#](C%23/402_RemoveKDigits.cs) |   
 | 403   | [Frog Jump](https://leetcode.com/problems/frog-jump/)  | [C#](C%23/403_FrogJump.cs) |   
 | 459   | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)  | [C#](C%23/459_RepeatedSubstringPattern.cs) |   
 | 461   | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)  | [C#](C%23/461_HammingDistance.cs) |   
