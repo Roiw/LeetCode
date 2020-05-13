@@ -11,13 +11,15 @@ public class Solution {
             int blocked = num.Length-k;
             int start = 0;
             string ans = "";
+            bool hasNumber = false; // Guarantee no 0's on the left
            while (blocked > 0) {
                (char c, int i) = FetchNumber(num, start, blocked);
-               ans += c;
+               hasNumber = c != '0'? true : hasNumber;
+               ans = hasNumber? ans+c: ans;
                start = i + 1;
                blocked--;
            }
-            return RemoveZeroes(ans);
+            return ans.Length == 0? "0": ans;
         }       
     }
     
@@ -32,18 +34,5 @@ public class Solution {
             }
         }
         return (min, index);
-    }
-    
-    // Clear 0s left of numbers..
-    private string RemoveZeroes (string s){
-        if (s[0] != '0') return s;
-        for (int i = 0; i < s.Length; i++){
-            if (s[i] == '0'){
-                s= s.Remove(i,1); i--;
-            }
-            else 
-                return s.Length == 0? "0": s;
-        }
-        return s.Length == 0? "0": s;
     }
 }
