@@ -99,6 +99,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 958   | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)  | [C#](C%23/958_CheckCompletenessOfABinaryTree.cs) |      
 | 977   | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  | [C#](C%23/977_SquaresOfASortedArray.cs) |      
 | 981   | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)  | [C#](C%23/981_TimeBasedKey-ValueStore.cs) |      
+| 986   | [Time Based Key-Value Store](https://leetcode.com/problems/interval-list-intersections/)  | [C#](C%23/986_IntervalListIntersections.cs) |      
 | 993   | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)  | [C#](C%23/993_CousinsInBinaryTree.cs) |      
 | 997   | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)  | [C#](C%23/997_FindTheTownJudge.cs) |      
 | 1002   | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)  | [C#](C%23/1002_FindCommonCharacters.cs) |   
