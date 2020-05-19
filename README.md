@@ -111,6 +111,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1046   | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)  | [C#](C%23/1046_LastStoneWeight.cs) |       
 | 1055   | [Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/)  | [C#](C%23/1055_ShortestWayToFormString.cs) |     
 | 1106   | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/)  | [C#](C%23/1106_ParsingABooleanExpression.cs) |     
+| 1104   | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/)  | [C#](C%23/1104_PathInZigzagLabelledBinaryTree.cs) |   
 | 1108   | [Defanging An Ip Address](https://leetcode.com/problems/defanging-an-ip-address/)  | [Python](Python/1108_DefangingAnIpAddress.py) |     
 | 1110   | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)  | [C#](C%23/1110_DeleteNodesAndReturnForest.cs) |     
 | 1143   | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)  | [C#](C%23/1143_LongestCommonSubsequence.cs) |     
