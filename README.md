@@ -67,6 +67,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 554   | [Brick Wall](https://leetcode.com/problems/brick-wall/)  | [Python](Python/554_BrickWall.py) |   
 | 560   | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)  | [C#](C%23/560_SubarraySumEqualsK.cs) 
 | 561   | [Array Partition I](https://leetcode.com/problems/array-partition-i/)  | [C#](C%23/561_ArrayPartitionI.cs) 
+| 567   | [Permutation in String](https://leetcode.com/problems/permutation-in-string/)  | [C#](C%23/567_PermutationInString.cs) 
 | 575   | [Distribute Candies](https://leetcode.com/problems/distribute-candies/)  | [Python](Python/575_DistributeCandies.py) |     
 | 590   | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)  | [C#](C%23/590_N-aryTreePostorderTraversal.cs)  
 | 657   | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)  | [C#](C%23/657_RobotReturnToOrigin.cs)  |    
