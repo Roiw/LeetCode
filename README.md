@@ -129,6 +129,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1232   | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)  | [C#](C%23/1232_CheckIfItIsAStraightLine.cs) |   
 | 1252   | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)  | [C#](C%23/1252_CellsWithOddValuesInAMatrix.cs) |     
 | 1266   | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)  | [C#](C%23/1266_MinimumTimeVisitingAllPoints.cs) |     
+| 1277   | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)  | [C#](C%23/1277_CountSquareSubmatricesWithAllOnes.cs) |     
 | 1281   | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)  | [C#](C%23/1281_SubtractTheProductAndSumOfDigitsOfAnInteger.cs) |  
 | 1282   | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)  | [C#](C%23/1282_GroupThePeopleGivenTheGroupSizeTheyBelongTo.cs) |  
 | 1290   | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)  | [C#](C%23/1290_ConvertBinaryNumberInALinkedListToInteger) |  
