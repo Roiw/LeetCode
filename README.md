@@ -58,8 +58,9 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 299   | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | [C#](C%23/299_BullsAndCows.cs) |
 | 304   | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)  | [C#](C%23/304_RangeSumQuery2DImmutable.cs) |
 | 328   | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)  | [C#](C%23/328_OddEvenLinkedList.cs) |
-| 359   | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)  | [C#](C%23/359_LoggerRateLimiter.cs) |   
 | 338   | [Counting Bits](https://leetcode.com/problems/counting-bits/)  | [C#](C%23/338_CountingBits.cs) 
+| 347   | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  | [C#](C%23/347_TopKFrequentElements.cs) 
+| 359   | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)  | [C#](C%23/359_LoggerRateLimiter.cs) |   
 | 367   | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)  | [C#](C%23/367_ValidPerfectSquare.cs) 
 | 380   | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)  | [C#](C%23/380_InsertDeleteGetRandomO(1).cs) 
 | 383   | [Ransom Note](https://leetcode.com/problems/ransom-note/)  | [C#](C%23/383_RansomNote.cs) 
