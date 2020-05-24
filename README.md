@@ -17,6 +17,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 033   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)  | [C#](C%23/33_SearchInRotatedSortedArray.cs) |   
 | 034   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  | [C#](C%23/34_FindFirstAndLastPositionOfElementInSortedArray.cs) |   
 | 035   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)  | [C#](C%23/35_SearchInsertPosition.cs) |   
+| 038   | [Count and Say](https://leetcode.com/problems/count-and-say/)  | [C#](C%23/38_CountandSay.cs) |   
 | 049   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)  | [C#](C%23/49_GroupAnagrams.cs) |   
 | 053   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | [C#](C%23/53_MaximumSubarray.cs) |   
 | 055   | [Jump Game](https://leetcode.com/problems/jump-game/)  | [C#](C%23/55_JumpGame.cs) |   
