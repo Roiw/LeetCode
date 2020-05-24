@@ -19,6 +19,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 035   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)  | [C#](C%23/35_SearchInsertPosition.cs) |   
 | 038   | [Count and Say](https://leetcode.com/problems/count-and-say/)  | [C#](C%23/38_CountandSay.cs) |   
 | 041   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)  | [C#](C%23/41_FirstMissingPositive.cs) |   
+| 048   | [Group Anagrams](https://leetcode.com/problems/rotate-image/)  | [C#](C%23/48_RotateImage.cs) |   
 | 049   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)  | [C#](C%23/49_GroupAnagrams.cs) |   
 | 053   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | [C#](C%23/53_MaximumSubarray.cs) |   
 | 055   | [Jump Game](https://leetcode.com/problems/jump-game/)  | [C#](C%23/55_JumpGame.cs) |   
