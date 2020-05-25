@@ -33,6 +33,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 100   | [Same Tree](https://leetcode.com/problems/same-tree/)  | [Python](Python/100_SameTree.py) |      
 | 103   | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)  | [C#](C%23/103_BinaryTreeZigzagLevelOrderTraversal.cs) |   
 | 112   | [Path Sum](https://leetcode.com/problems/path-sum/)  | [C#](C%23/112_PathSum.cs) |   
+| 121   | [Best Time to Buy and Sell Stock I](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | [C#](C%23/121_BestTimeToBuyAndSellStock.cs) |   
 | 122   | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)  | [Kotlin](Kotlin/122_BestTimeToBuyAndSellStockII.kt) |   
 | 124   | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)  | [C#](C%23/124_BinaryTreeMaximumPathSum.cs) |   
 | 125   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  | [Python](Python/125_ValidPalindrome.py), [C#](C%23/125_ValidPalindrome.cs) |     
@@ -77,6 +78,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 475   | [Heaters](https://leetcode.com/problems/heaters/)  | [Python](Python/475_Heaters.py) |   
 | 496   | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)  | [C#](C%23/496_NextGreaterElementI.cs) |   
 | 503   | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)  | [C#](C%23/503_NextGreaterElementII.cs) |   
+| 515   | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)  | [C#](C%23/515_FindLargestValueInEachTreeRow.cs) |   
 | 525   | [Contiguous Array](https://leetcode.com/problems/contiguous-array/)  | [C#](C%23/525_ContiguousArray.cs) |   
 | 540   | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)  | [C#](C%23/540_SingleElementInASortedArray.cs) |   
 | 543   | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)  | [C#](C%23/543_DiameterOfBinaryTree.cs) |   
