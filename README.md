@@ -82,6 +82,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 543   | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)  | [C#](C%23/543_DiameterOfBinaryTree.cs) |   
 | 551   | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)  | [Python](Python/551_StudentAttendanceRecordI.py) |   
 | 554   | [Brick Wall](https://leetcode.com/problems/brick-wall/)  | [Python](Python/554_BrickWall.py) |   
+| 556   | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)  | [C#](C%23/556_NextGreaterElementIII.cs)
 | 560   | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)  | [C#](C%23/560_SubarraySumEqualsK.cs) 
 | 561   | [Array Partition I](https://leetcode.com/problems/array-partition-i/)  | [C#](C%23/561_ArrayPartitionI.cs) 
 | 567   | [Permutation in String](https://leetcode.com/problems/permutation-in-string/)  | [C#](C%23/567_PermutationInString.cs) 
