@@ -20,6 +20,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 038   | [Count and Say](https://leetcode.com/problems/count-and-say/)  | [C#](C%23/38_CountandSay.cs) |   
 | 041   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)  | [C#](C%23/41_FirstMissingPositive.cs) |   
 | 046   | [Permutations](https://leetcode.com/problems/permutations/)  | [C#](C%23/46_Permutations.cs) |   
+| 047   | [Permutations II](https://leetcode.com/problems/permutations-ii/)  | [C#](C%23/46_PermutationsII.cs) |   
 | 048   | [Group Anagrams](https://leetcode.com/problems/rotate-image/)  | [C#](C%23/48_RotateImage.cs) |   
 | 049   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)  | [C#](C%23/49_GroupAnagrams.cs) |   
 | 053   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | [C#](C%23/53_MaximumSubarray.cs) |   
