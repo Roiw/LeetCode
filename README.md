@@ -75,6 +75,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 461   | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)  | [C#](C%23/461_HammingDistance.cs) |   
 | 476   | [Number Complement](https://leetcode.com/problems/number-complement/)  | [C#](C%23/476_NumberComplement.cs) |   
 | 475   | [Heaters](https://leetcode.com/problems/heaters/)  | [Python](Python/475_Heaters.py) |   
+| 496   | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)  | [C#](C%23/496_NextGreaterElementI.cs) |   
 | 525   | [Contiguous Array](https://leetcode.com/problems/contiguous-array/)  | [C#](C%23/525_ContiguousArray.cs) |   
 | 540   | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)  | [C#](C%23/540_SingleElementInASortedArray.cs) |   
 | 543   | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)  | [C#](C%23/543_DiameterOfBinaryTree.cs) |   
