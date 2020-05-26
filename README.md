@@ -26,6 +26,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 053   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | [C#](C%23/53_MaximumSubarray.cs) |   
 | 055   | [Jump Game](https://leetcode.com/problems/jump-game/)  | [C#](C%23/55_JumpGame.cs) |   
 | 058   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)  | [C#](C%23/58_LengthOfLastWord.cs) |   
+| 061   | [Rotate List](https://leetcode.com/problems/rotate-list/)  | [C#](C%23/61_RotateList.cs) |   
 | 064   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  | [C#](C%23/64_MinimumPathSum.cs) |   
 | 066   | [Plus One](https://leetcode.com/problems/plus-one/)  | [C#](C%23/66_PlusOne.cs) |   
 | 073   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)  | [C#](C%23/73_SetMatrixZeroes.cs) |   
