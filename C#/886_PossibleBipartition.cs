@@ -1,10 +1,10 @@
 public class Solution {
     // My idea here is: 
     //   1 - Add the first dislike pair to their groups.
-    //   2 - Based on the first pair, add all following pairs that have a member beloing to one of the groups. 
+    //   2 - Based on the first pair, add all following pairs that have a member belonging to one of the groups. 
     //  For example if we started with a pair (1,2) and later we found (2,5) we know that 5 should go with 1.
     //   3 - In just one pass we can't guarantee that all elements are added. So we repeat the proccess.
-    //   4 - If in a pass we didn't add any element than we add an element to the groups. 
+    //   4 - If in a pass we didn't add any element, we add the first element of the queue to the groups. 
     // (This happens if there are elements completely unrelated to the ones in the group; eg: (1,2),(3,4),(3,5). (1,2) is unrelated.
     //   5 - If during the process we didn't get into any 'conflict', the groups can be partitioned.
     public bool PossibleBipartition(int N, int[][] dislikes) {
