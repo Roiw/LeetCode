@@ -138,6 +138,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1019   | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)  | [C#](C%23/1019_NextGreaterNodeInLinkedList.cs) | 
 | 1021   | [Remove Outermost Parenthesis](https://leetcode.com/problems/remove-outermost-parentheses/)  | [C#](C%23/1021_RemoveOutermostParentheses.cs) | 
 | 1028   | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)  | [C#](C%23/1028_RecoverATreeFromPreorderTraversal.cs) |
+| 1035   | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)  | [C#](C%23/1035_UncrossedLines.cs) |
 | 1046   | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)  | [C#](C%23/1046_LastStoneWeight.cs) |       
 | 1055   | [Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/)  | [C#](C%23/1055_ShortestWayToFormString.cs) |     
 | 1106   | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/)  | [C#](C%23/1106_ParsingABooleanExpression.cs) |     
