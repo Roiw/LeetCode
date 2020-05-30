@@ -127,6 +127,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 942   | [DI String Match](https://leetcode.com/problems/di-string-match/)  | [C#](C%23/942_DIStringMatch.cs) 
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)  | [C#](C%23/950_RevealCardsInIncreasingOrder.cs) |      
 | 958   | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)  | [C#](C%23/958_CheckCompletenessOfABinaryTree.cs) |      
+| 973   | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)  | [C#](C%23/973_KClosestPointsToOrigin.cs) |      
 | 977   | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  | [C#](C%23/977_SquaresOfASortedArray.cs) |      
 | 981   | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)  | [C#](C%23/981_TimeBasedKey-ValueStore.cs) |      
 | 986   | [Time Based Key-Value Store](https://leetcode.com/problems/interval-list-intersections/)  | [C#](C%23/986_IntervalListIntersections.cs) |      
