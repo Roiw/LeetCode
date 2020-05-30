@@ -33,6 +33,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 073   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)  | [C#](C%23/73_SetMatrixZeroes.cs) |   
 | 079   | [Word Search](https://leetcode.com/problems/word-search/)  | [C#](C%23/79_WordSearch.cs) |   
 | 080   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)  | [C#](C%23/80_RemoveDuplicatesFromSortedArrayII.cs) |   
+| 092   | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)  | [C#](C%23/92_ReverseLinkedListII.cs) |   
 | 100   | [Same Tree](https://leetcode.com/problems/same-tree/)  | [Python](Python/100_SameTree.py) |      
 | 103   | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)  | [C#](C%23/103_BinaryTreeZigzagLevelOrderTraversal.cs) |   
 | 112   | [Path Sum](https://leetcode.com/problems/path-sum/)  | [C#](C%23/112_PathSum.cs) |   
