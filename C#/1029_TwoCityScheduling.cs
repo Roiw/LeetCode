@@ -1,56 +1,22 @@
 public class Solution {
-    // 55
-    // A: 
-    // B:
-    // Take minor (between A and B) if added already pick again. -> Add element to 
+    // 1 - We put all people on city A 
+    // 2 - We than get the smallest different B - A and move to city B
+    // 3 - The result is price A's + price B's
     public int TwoCitySchedCost(int[][] costs) {
-        
-        HashSet<int> inserted = new HashSet<int>();
-        SortedDictionary<int, Stack<int>> sortedForA = new SortedDictionary<int,Stack<int>>();
-        SortedDictionary<int, Stack<int>> sortedForB = new SortedDictionary<int,Stack<int>>();
-        int ans = 0;
-        
-        // O(NLogN)
-        for (int i = 0; i < costs.Length; i++){
-            sortedForA.TryAdd(costs[i][0], new Stack<int>());
-            sortedForA[costs[i][0]].Push(i);
-            sortedForB.TryAdd(costs[i][1], new Stack<int>());
-            sortedForB[costs[i][1]].Push(i);
+        SortedDictionary<int, Stack<int>> diffs = new SortedDictionary<int, Stack<int>>();
+        for (int i = 0; i < costs.Length; i++) {
+            int diff = costs[i][1] - costs[i][0];
+            diffs.TryAdd(diff, new Stack<int>());
+            diffs[diff].Push(i);
         }
-        
-        var As = sortedForA.Keys.GetEnumerator();
-        var Bs = sortedForB.Keys.GetEnumerator();
-        bool isAValid = As.MoveNext();
-        bool isBValid = Bs.MoveNext();
-        int amountA = 0, amountB = 0;
-        
-        while (inserted.Count < costs.Length){
-            
-            if ( !isBValid ||amountB >= costs.Length/2 ||
-                isAValid && amountA < costs.Length/2 && As.Current < Bs.Current){
-                (int s, int items) = AddElements(inserted, sortedForA, As.Current); 
-                ans += s; amountA += items;
-                isAValid = As.MoveNext();
+        int ans = 0, j = 0;
+        foreach (KeyValuePair<int,Stack<int>> d in diffs){
+            while(d.Value.Count > 0){
+                int n = d.Value.Pop();
+                ans += j < costs.Length/2? costs[n][1]:costs[n][0];
+                j++;
             }
-            if (!isAValid || amountA >= costs.Length/2 || 
-                isBValid && amountB < costs.Length/2 && As.Current >= Bs.Current) {
-                (int s, int items) = AddElements(inserted, sortedForB, Bs.Current);
-                ans += s; amountB += items;
-                isBValid = Bs.MoveNext();
-            }
-            else break;
-        }  
+        }
         return ans;
-    }
-    private (int, int) AddElements(HashSet<int> inserted, SortedDictionary<int, Stack<int>> sorted, int index ){
-        int summed = 0, count = 0;
-        while (sorted[index].Count > 0){
-           int val = sorted[index].Pop();
-           if (inserted.Add(val)) {
-               summed += index;
-               count++;
-            }
-        }
-        return (summed, count);
     }
 }

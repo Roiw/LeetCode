@@ -142,6 +142,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1019   | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)  | [C#](C%23/1019_NextGreaterNodeInLinkedList.cs) | 
 | 1021   | [Remove Outermost Parenthesis](https://leetcode.com/problems/remove-outermost-parentheses/)  | [C#](C%23/1021_RemoveOutermostParentheses.cs) | 
 | 1028   | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)  | [C#](C%23/1028_RecoverATreeFromPreorderTraversal.cs) |
+| 1029   | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)  | [C#](C%23/1029_TwoCityScheduling.cs) |
 | 1035   | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)  | [C#](C%23/1035_UncrossedLines.cs) |
 | 1046   | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)  | [C#](C%23/1046_LastStoneWeight.cs) |       
 | 1051   | [Height Checker](https://leetcode.com/problems/height-checker/)  | [C#](C%23/1051_HeightChecker.cs) |       
