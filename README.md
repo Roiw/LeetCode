@@ -87,6 +87,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 503   | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)  | [C#](C%23/503_NextGreaterElementII.cs) |   
 | 515   | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)  | [C#](C%23/515_FindLargestValueInEachTreeRow.cs) |   
 | 525   | [Contiguous Array](https://leetcode.com/problems/contiguous-array/)  | [C#](C%23/525_ContiguousArray.cs) |   
+| 528   | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)  | [C#](C%23/528_RandomPickWithWeight.cs) |   
 | 540   | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)  | [C#](C%23/540_SingleElementInASortedArray.cs) |   
 | 543   | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)  | [C#](C%23/543_DiameterOfBinaryTree.cs) |   
 | 551   | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)  | [Python](Python/551_StudentAttendanceRecordI.py) |   
