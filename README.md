@@ -76,6 +76,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 387   | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)  | [C#](C%23/387_FirstUniqueCharacterInAString.cs), [Kotlin](Kotlin/387_FirstUniqueCharacterInAString.kt) |     |    
 | 402   | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)  | [C#](C%23/402_RemoveKDigits.cs) |   
 | 403   | [Frog Jump](https://leetcode.com/problems/frog-jump/)  | [C#](C%23/403_FrogJump.cs) |   
+| 406   | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)  | [C#](C%23/406_QueueReconstructionByHeight.cs) |   
 | 415   | [Add Strings](https://leetcode.com/problems/add-strings/)  | [C#](C%23/415_AddStrings.cs) |   
 | 438   | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)  | [C#](C%23/438_FindAllAnagramsInAString.cs) |   
 | 451   | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)  | [C#](C%23/451_SortCharactersByFrequency.cs) |   
