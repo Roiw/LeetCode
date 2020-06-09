@@ -75,6 +75,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 380   | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)  | [C#](C%23/380_InsertDeleteGetRandomO(1).cs) 
 | 383   | [Ransom Note](https://leetcode.com/problems/ransom-note/)  | [C#](C%23/383_RansomNote.cs) 
 | 387   | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)  | [C#](C%23/387_FirstUniqueCharacterInAString.cs), [Kotlin](Kotlin/387_FirstUniqueCharacterInAString.kt) |     |    
+| 392   | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)  | [C#](C%23/392_IsSubsequence.cs) 
 | 402   | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)  | [C#](C%23/402_RemoveKDigits.cs) |   
 | 403   | [Frog Jump](https://leetcode.com/problems/frog-jump/)  | [C#](C%23/403_FrogJump.cs) |   
 | 406   | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)  | [C#](C%23/406_QueueReconstructionByHeight.cs) |   
