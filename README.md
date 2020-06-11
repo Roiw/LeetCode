@@ -31,6 +31,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 064   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  | [C#](C%23/64_MinimumPathSum.cs) |   
 | 066   | [Plus One](https://leetcode.com/problems/plus-one/)  | [C#](C%23/66_PlusOne.cs) |   
 | 073   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)  | [C#](C%23/73_SetMatrixZeroes.cs) |   
+| 075   | [Sort Colors](https://leetcode.com/problems/sort-colors/)  | [C#](C%23/75_SortColors.cs) |   
 | 079   | [Word Search](https://leetcode.com/problems/word-search/)  | [C#](C%23/79_WordSearch.cs) |   
 | 080   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)  | [C#](C%23/80_RemoveDuplicatesFromSortedArrayII.cs) |   
 | 092   | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)  | [C#](C%23/92_ReverseLinkedListII.cs) |   
