@@ -38,6 +38,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 100   | [Same Tree](https://leetcode.com/problems/same-tree/)  | [Python](Python/100_SameTree.py) |      
 | 103   | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)  | [C#](C%23/103_BinaryTreeZigzagLevelOrderTraversal.cs) |   
 | 112   | [Path Sum](https://leetcode.com/problems/path-sum/)  | [C#](C%23/112_PathSum.cs) |   
+| 118   | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)  | [C#](C%23/118_PascalsTriangle.cs) |   
 | 121   | [Best Time to Buy and Sell Stock I](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | [C#](C%23/121_BestTimeToBuyAndSellStock.cs) |   
 | 122   | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)  | [Kotlin](Kotlin/122_BestTimeToBuyAndSellStockII.kt) |   
 | 124   | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)  | [C#](C%23/124_BinaryTreeMaximumPathSum.cs) |   
