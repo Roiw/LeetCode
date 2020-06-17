@@ -11,30 +11,27 @@
  *     }
  * }
  */
+
 public class Solution {
     
     // If depths are equal -> found correct node.
     // If bigger than other -> dig on bigger node..
-    
-    public TreeNode LcaDeepestLeaves(TreeNode root) {
-        int dRight = 0;
-        int dLeft = 0;
+
+    private Dictionary<TreeNode, (int,int)> _adapt = new Dictionary<TreeNode, (int,int)>();
+    public TreeNode LcaDeepestLeaves(TreeNode root) {    
+        if (!_adapt.ContainsKey(root)) CountDepth(root);
+        (int left, int right) = _adapt[root];
         
-        if (root.left != null) dLeft = CountDepth(root.left);
-        if (root.right != null) dRight = CountDepth(root.right);
-        
-        if (dLeft == dRight) return root;
-        if (dLeft > dRight) return LcaDeepestLeaves(root.left);
-        else return LcaDeepestLeaves(root.right);
+        if (left > right) return LcaDeepestLeaves(root.left);
+        if (right > left) return LcaDeepestLeaves(root.right);
+        return root;
     }
     
     private int CountDepth(TreeNode root){
-        if (root.left == null && root.right == null)
-            return 1;
-        
-        int dRight = 0, dLeft = 0;
-        if (root.right != null) dRight = CountDepth(root.right);
-        if (root.left != null) dLeft = CountDepth(root.left);
-        return Math.Max(dRight,dLeft) + 1;
+        int left = 1, right = 1;
+        if (root.left != null) left += CountDepth(root.left);
+        if (root.right != null) right += CountDepth(root.right);
+        _adapt.Add(root, (left,right));
+        return Math.Max(left,right);
     }
 }
