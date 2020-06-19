@@ -65,6 +65,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 237   | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C#](C%23/237_DeleteNodeInALinkedList.cs) |   
 | 238   | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C#](C%23/238_ProductOfArrayExceptSelf.cs) |   
 | 268   | [Missing Number](https://leetcode.com/problems/missing-number/)  | [C#](C%23/268_MissingNumber.cs) |   
+| 275   | [H-Index II](https://leetcode.com/problems/h-index-ii/)  | [C#](C%23/275_H-IndexII.cs) |   
 | 278   | [First Bad Version](https://leetcode.com/problems/first-bad-version/)  | [C#](C%23/278_FirstBadVersion.cs) |   
 | 283   | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | [Kotlin](Kotlin/283_MoveZeroes.kt) |   
 | 299   | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | [C#](C%23/299_BullsAndCows.cs) |
