@@ -2,9 +2,11 @@ public class Solution {
     // We want to find the next permutation in lexicographical order for the set (s).
     //
     // To do so we must:
-    // 1 - Starting on the rightmost pair -> Find the first pair in which left is smaller than right.
-    // 2 - We swap the found pair, and swap every other pair to it's right.
-    
+    // 1  - Iterate on the array using two loops (A,B) 
+    // 2  - For every A we will find the first position B, starting from the rightmost and ending on A, that is greater than A. 
+    // 3a - If don't find any position after searching all A's we are at the end of the permutation set. (eg: start:[123] end:[321] )
+    // 3b - If we found a position we swap A and B and all elements right of A (A+1 and so forward).
+    // At the end we have the Next permutation.
     
     public int NextGreaterElement(int n) {
         char[] s = n.ToString().ToCharArray();
