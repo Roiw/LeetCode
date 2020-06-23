@@ -117,6 +117,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 704   | [Binary Search](https://leetcode.com/problems/binary-search/)  | [Python](Python/704_BinarySearch.py) |   
 | 701   | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)  | [C#](C%23/701_InsertIntoABinarySearchTree.cs) 
 | 709   | [To Lower Case](https://leetcode.com/problems/to-lower-case/)  | [C#](C%23/709_ToLowerCase.cs) 
+| 728   | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)  | [C#](C%23/728_SelfDividingNumbers.cs) 
 | 733   | [Flood Fill](https://leetcode.com/problems/flood-fill/)  | [C#](C%23/733_FloodFill.cs) 
 | 739   | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)  | [C#](C%23/739_DailyTemperatures.cs) 
 | 763   | [Partition Labels](https://leetcode.com/problems/partition-labels/)  | [C#](C%23/763_PartitionLabels.cs) 
