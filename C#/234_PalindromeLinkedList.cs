@@ -9,25 +9,46 @@
  *     }
  * }
  */
+// O(N), O(1). 
+// Step1: Count amount of elements in list
+// Step2: Revert the other of half ot the list 1->2->2->1 becomes 1->2->2<-1
+// Step3: From both ends compare elements and move towards the center.
 public class Solution {
     public bool IsPalindrome(ListNode head) {
         if (head == null) return true;
         int count = 1;
         int aux = 0;
-        Stack<int> stck = new Stack<int>();
         
+        // Count amount of  nodes..
         ListNode node = new ListNode(head.val, head.next);
         while (node.next != null) { count++; node = node.next;}
         
-        node = new ListNode(head.val, head.next);    
-        while (node != null) {
-            if (aux < count/2) {stck.Push(node.val);}
-            else if (count % 2 == 0 && aux == count/2 || aux > count/2) {
-                if ( stck.Pop() != node.val) return false; 
+        // Revert half the list.
+        ListNode endNode = new ListNode(head.val, head.next);    
+        ListNode next = endNode.next;
+        while (next != null) {
+            if (aux >= count/2) { 
+                ListNode nextNext = next.next;
+                next.next = endNode;
+                endNode = next;
+                next = nextNext;
             }
-            node = node.next;
-            aux++;
+            else {
+                endNode = next;
+                next = next.next;
+                aux++;
+            }
         }
+        
+        // Check the palindrome
+        node = new ListNode(head.val, head.next);
+        aux = 0;
+        while (aux < count/2){
+            if (node.val != endNode.val) return false;
+            node = node.next;
+            endNode = endNode.next;
+            aux++;
+        }    
         return true;
     }
 }
