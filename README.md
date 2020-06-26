@@ -72,6 +72,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 275   | [H-Index II](https://leetcode.com/problems/h-index-ii/)  | [C#](C%23/275_H-IndexII.cs) |   
 | 278   | [First Bad Version](https://leetcode.com/problems/first-bad-version/)  | [C#](C%23/278_FirstBadVersion.cs) |   
 | 283   | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | [Kotlin](Kotlin/283_MoveZeroes.kt) |   
+| 287   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | [C#](C%23/287_FindTheDuplicateNumber.cs) |
 | 299   | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | [C#](C%23/299_BullsAndCows.cs) |
 | 304   | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)  | [C#](C%23/304_RangeSumQuery2DImmutable.cs) |
 | 328   | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)  | [C#](C%23/328_OddEvenLinkedList.cs) |
