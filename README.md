@@ -72,6 +72,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 268   | [Missing Number](https://leetcode.com/problems/missing-number/)  | [C#](C%23/268_MissingNumber.cs) |   
 | 275   | [H-Index II](https://leetcode.com/problems/h-index-ii/)  | [C#](C%23/275_H-IndexII.cs) |   
 | 278   | [First Bad Version](https://leetcode.com/problems/first-bad-version/)  | [C#](C%23/278_FirstBadVersion.cs) |   
+| 279   | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)  | [C#](C%23/279_PerfectSquares.cs) |   
 | 283   | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | [Kotlin](Kotlin/283_MoveZeroes.kt) |   
 | 287   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | [C#](C%23/287_FindTheDuplicateNumber.cs) |
 | 299   | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | [C#](C%23/299_BullsAndCows.cs) |
@@ -196,6 +197,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1329   | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)  | [C#](C%23/1329_SortTheMatrixDiagonally.cs) |   
 | 1342   | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)  | [C#](C%23/1342_NumberOfStepsToReduceANumberToZero.cs) |     
 | 1347   | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)  | [C#](C%23/1347_MinimumNumberOfStepsToMakeTwoStringsAnagram.cs) |     
+| 1351   | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)  | [C#](C%23/1351_CountNegativeNumbersInASortedMatrix.cs) |     
 | 1365   | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)  | [C#](C%23/1365_HowManyNumbersAreSmallerThanTheCurrentNumber.cs) |     
 | 1370   | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)  | [C#](C%23/1370_IncreasingDecreasingString.cs) |     
 | 1374   | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)  | [C#](C%23/1374_GenerateAStringWithCharactersThatHaveOddCounts.cs) |     
