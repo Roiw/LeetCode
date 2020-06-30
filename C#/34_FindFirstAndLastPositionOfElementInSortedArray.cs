@@ -1,58 +1,36 @@
+// 28
 public class Solution {
     public int[] SearchRange(int[] nums, int target) {
-        if (nums.Length == 0) return new int[] {-1,-1};
-        int lower = LowerBound(nums, target, 0, nums.Length);
-        int upper = UpperBound(nums, target, 0, nums.Length);
-        return new int[]{lower, upper};
+        if(nums.Length == 0) return new int[] { -1, -1 };
+        int lower = FindBound(nums, target, 0, nums.Length - 1, true);
+        int upper = FindBound(nums, target, 0, nums.Length - 1, false);
+        return new int[] {Math.Max(lower, -1), Math.Max(upper, -1)};
     }
     
-	private static int UpperBound(int[] nums, int target, int start, int len)
-	{
-		int mid = len / 2;
-		int i = mid + start;
-        if (nums.Length == 1) return nums[0] == target? 0 : -1;
-        if (len == 0) return -1;
-		if (i == nums.Length - 1){
-			if (nums[i] == target) return i;
-			else if (nums[i-1] == target) return i-1;
-			else return -1;
-		}
-		if (i < 1)
-			return nums[i] == target ? i : -1;
-		if (nums[i] < target)
-			return UpperBound(nums, target, i + 1, nums.Length - i - 1); // Advance right
-		if (nums[i] == target)
-		{
-			if (nums[i + 1] != target)
-				return i;
-			else
-				return UpperBound(nums, target, i + 1, nums.Length - i - 1); // Advance right
-		}
-		else
-			return UpperBound(nums, target, start, len / 2); // Advance to the left..
-	}
-
-	private static int LowerBound(int[] nums, int target, int start, int len)
-	{
-		int mid = len / 2;
-		int i = mid + start;
-        if (nums.Length == 1) return nums[0] == target? 0 : -1;
-        if (len == 0) return -1;
-		if (i > nums.Length - 1)
-			return nums[i-1] == target ? i-1 : -1;
-		if (i < 1)
-			return nums[i] == target ? i : -1;
-		if (nums[i] < target)
-			return LowerBound(nums, target, i + 1, nums.Length - i - 1); // Advance to right..
-		if (nums[i] == target)
-		{
-			if (nums[i - 1] != target)
-				return i;
-			else
-				return LowerBound(nums, target, start, len / 2); // Advance to left..
-		}
-		else
-			return LowerBound(nums, target, start, len / 2); // Advance to left
-	}
-
+    private int FindBound(int[] nums, int target, int x, int y, bool lower) {
+        
+        int mid = (x + y) / 2;
+        if (x > y) return ~x; // Not present in array..
+        
+        // Go right..
+        if (nums[mid] < target) { return FindBound(nums, target, mid + 1, y, lower); }
+        // Go left..
+        if (nums[mid] > target) { return FindBound(nums, target, x, mid - 1, lower); }
+        else {
+            // Case equal, check if we have the correct bound..
+            if (lower) { 
+                if ( mid == 0 || mid > 0 && nums[mid-1] != target)
+                    return mid;   // Found a lower..
+                else 
+                    return FindBound(nums, target, 0, mid - 1, lower); // Go left..
+            }
+            else {
+                int lastPos = nums.Length - 1;
+                if ( mid == lastPos || mid < lastPos && nums[mid + 1] != target)
+                    return mid; // Found a upper..
+                else 
+                    return FindBound(nums, target, mid + 1, nums.Length-1, lower); // Go right..
+            } 
+        }
+    }
 }
