@@ -94,6 +94,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 406   | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)  | [C#](C%23/406_QueueReconstructionByHeight.cs) |   
 | 415   | [Add Strings](https://leetcode.com/problems/add-strings/)  | [C#](C%23/415_AddStrings.cs) |   
 | 438   | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)  | [C#](C%23/438_FindAllAnagramsInAString.cs) |   
+| 441   | [Arranging Coins](https://leetcode.com/problems/arranging-coins/)  | [C#](C%23/441_ArrangingCoins.cs) |   
 | 451   | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)  | [C#](C%23/451_SortCharactersByFrequency.cs) |   
 | 455   | [Assign Cookies](https://leetcode.com/problems/assign-cookies/)  | [C#](C%23/455_AssignCookies.cs) |   
 | 459   | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)  | [C#](C%23/459_RepeatedSubstringPattern.cs) |   
