@@ -14,7 +14,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 020   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  | [C#](C%23/20_ValidParentheses.cs) |   
 | 021   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | [C#](C%23/21_MergeTwoSortedLists.cs) |   
 | 024   | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)  | [C#](C%23/24_SwapNodesInPairs.cs) |   
-| 026   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Python](Python/26_RemoveDuplicatesFromSortedArray.py), [C#](C%23/26_RemoveDuplicatesFromSortedArray.cs) |    
+| 026   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [C#](C%23/26_RemoveDuplicatesFromSortedArray.cs), [Python](Python/26_RemoveDuplicatesFromSortedArray.py) |    
 | 033   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)  | [C#](C%23/33_SearchInRotatedSortedArray.cs) |   
 | 034   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  | [C#](C%23/34_FindFirstAndLastPositionOfElementInSortedArray.cs) |   
 | 035   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)  | [C#](C%23/35_SearchInsertPosition.cs) |   
@@ -41,7 +41,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 092   | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)  | [C#](C%23/92_ReverseLinkedListII.cs) |   
 | 100   | [Same Tree](https://leetcode.com/problems/same-tree/)  | [Python](Python/100_SameTree.py) |      
 | 103   | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)  | [C#](C%23/103_BinaryTreeZigzagLevelOrderTraversal.cs) |   
-| 107   | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)  | [C#](C%23/107_BinaryTreeLevelOrderTraversalII.cs) |   
+| 107   | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)  | [C#](C%23/107_BinaryTreeLevelOrderTraversalII.cs), [Python](Python/107_BinaryTreeLevelOrderTraversalII.py)|   
 | 112   | [Path Sum](https://leetcode.com/problems/path-sum/)  | [C#](C%23/112_PathSum.cs) |   
 | 118   | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)  | [C#](C%23/118_PascalsTriangle.cs) |   
 | 121   | [Best Time to Buy and Sell Stock I](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | [C#](C%23/121_BestTimeToBuyAndSellStock.cs) |   
