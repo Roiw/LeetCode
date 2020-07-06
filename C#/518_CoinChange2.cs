@@ -1,7 +1,7 @@
 public class Solution {
     // 39
     public int Change(int amount, int[] coins) {
-        Array.Sort(coins);
+        coins);
         int ans = 0;
         for (int i = 0; i < coins.Length; i++){
             ans = amount % coins[i] == 0 ? ans+1: ans;
