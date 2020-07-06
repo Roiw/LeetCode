@@ -32,7 +32,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 061   | [Rotate List](https://leetcode.com/problems/rotate-list/)  | [C#](C%23/61_RotateList.cs) |   
 | 062   | [Unique Paths](https://leetcode.com/problems/unique-paths/)  | [C#](C%23/62_UniquePaths.cs) |   
 | 064   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  | [C#](C%23/64_MinimumPathSum.cs) |   
-| 066   | [Plus One](https://leetcode.com/problems/plus-one/)  | [C#](C%23/66_PlusOne.cs) |   
+| 066   | [Plus One](https://leetcode.com/problems/plus-one/)  | [C#](C%23/66_PlusOne.cs), [Python](Python/66_PlusOne.py) |   
 | 073   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)  | [C#](C%23/73_SetMatrixZeroes.cs) |   
 | 074   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)  | [C#](C%23/74_SearchA2DMatrix.cs) |   
 | 075   | [Sort Colors](https://leetcode.com/problems/sort-colors/)  | [C#](C%23/75_SortColors.cs) |   
