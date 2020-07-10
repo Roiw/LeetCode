@@ -3,7 +3,6 @@
 #     def __init__(self, val=0, left=None, right=None):
 #         self.val = val
 #         self.left = left
-#         self.right = right
 class Solution:
     
     extremes = [[1,1]]
@@ -16,7 +15,7 @@ class Solution:
             if self.extremes[height][0] < value: 
                 self.extremes[height][0] = value
             if self.extremes[height][1] > value: self.extremes[height][1] = value
-            self.widths[height] = self.extremes[0] - self.extremes[1] + 1
+            self.widths[height] = self.extremes[height][0] - self.extremes[height][1] + 1
             
         if root.left is None and root.right is None: return
         if root.left is not None: self.Dive(root.left, height + 1, value * 2)
@@ -26,7 +25,7 @@ class Solution:
         if root is None: return 0
         if root.left is None and root.right is None: return 1
         self.widths = [1]
-        self.extremes = [1,1]
+        self.extremes = [[1,1]]
         
         # Starting DFS
         if root.left is not None: self.Dive(root.left, 1, 2)

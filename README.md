@@ -126,6 +126,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 645   | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)  | [C#](C%23/645_SetMismatch.cs)  |    
 | 657   | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)  | [C#](C%23/657_RobotReturnToOrigin.cs)  |    
 | 661   | [Image Smoother](https://leetcode.com/problems/image-smoother/)  | [Python](Python/661_ImageSmoother.py) |    
+| 662   | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)  | [Python](Python/662_MaximumWidthOfBinaryTree.py) |    
 | 665   | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)  | [Python](Python/665_NonDecreasingArray.py) |    
 | 678   | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)  | [C#](C%23/678_ValidParenthesisString.cs)  |    
 | 700   | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)  | [C#](C%23/700_SearchInABinarySearchTree.cs) |   
