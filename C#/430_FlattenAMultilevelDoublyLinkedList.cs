@@ -9,16 +9,25 @@ public class Node {
 */
 
 public class Solution {
+	private Stack<Node> stack = new Stack<Node>();
     public Node Flatten(Node head) {
         if (head == null) return null;
-        return Flat(head, head.next);
-    }
-    private Node Flat(Node head, Node next) {
-        head.next = next;
-        if (next == null) return head;
-        next.prev = head;
-        Node newNext = next.next;
-        if (next.child != null) next = Flat(next, next.child);
-        return Flat(next, newNext);
+		Node next = head.next;
+		if (head.child != null){
+			Node branchTail = Flatten(head.child);
+			Node branchHead = stack.Pop();
+			if (next!= null) next.prev = branchHead;
+			branchHead.next = next;
+			next = branchTail;
+			head.next = branchTail;
+			branchTail.prev = head;
+		}
+        head.child = null;
+		next = Flatten(next);
+		if (next != null) {
+			head.next = next;
+			next.prev = head;
+		} else stack.Push(head);		
+		return head;
     }
 }
