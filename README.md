@@ -55,7 +55,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 136   | [Single Number](https://leetcode.com/problems/single-number/)  | [C#](C%23/136_SingleNumber.cs), [Kotlin](Kotlin/136_SingleNumber.kt) |   
 | 137   | [Single Number II](https://leetcode.com/problems/single-number-ii/)  | [C#](C%23/137_SingleNumberII.cs) |   
 | 146   | [LRU Cache](https://leetcode.com/problems/lru-cache/)  | [C#](C%23/146_LRUCache.cs) |   
-| 151   | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)  | [C++](C%2B%2B/151_ReverseWordsInAString.cpp) |   
+| 151   | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)  | [C#](151_ReverseWordsInAString.cs), [C++](C%2B%2B/151_ReverseWordsInAString.cpp) |   
 | 155   | [Min Stack](https://leetcode.com/problems/min-stack/)  | [C#](C%23/155_MinStack.cs) |   
 | 162   | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)  | [C#](C%23/162_FindPeakElement.cs) |
 | 169   | [Majority Element](https://leetcode.com/problems/majority-element/)  | [C#](C%23/169_MajorityElement.cs) |
