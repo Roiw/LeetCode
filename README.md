@@ -183,6 +183,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1029   | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)  | [C#](C%23/1029_TwoCityScheduling.cs) |
 | 1035   | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)  | [C#](C%23/1035_UncrossedLines.cs) |
 | 1046   | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)  | [C#](C%23/1046_LastStoneWeight.cs) |       
+| 1047   | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)  | [C#](C%23/1047_RemoveAllAdjacentDuplicatesInString.cs) |       
 | 1051   | [Height Checker](https://leetcode.com/problems/height-checker/)  | [C#](C%23/1051_HeightChecker.cs) |       
 | 1055   | [Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/)  | [C#](C%23/1055_ShortestWayToFormString.cs) |     
 | 1106   | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/)  | [C#](C%23/1106_ParsingABooleanExpression.cs) |     
