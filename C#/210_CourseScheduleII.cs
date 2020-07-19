@@ -1,3 +1,4 @@
+// Slow solution, training LINQ
 public class Solution {
     public int[] FindOrder(int numCourses, int[][] prerequisites) {
         List<int> ans = new List<int>();
