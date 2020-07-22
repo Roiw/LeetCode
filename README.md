@@ -7,6 +7,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 001   | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Python](Python/001_TwoSum.py), [C#](C%23/1_TwoSum.cs), [Kotlin](Kotlin/1_TwoSum.kt) |
 | 002   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | [Python](Python/002_AddTwoNumbers.py) |      
 | 007   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)  | [C#](C%23/7_ReverseInteger.cs) |   
+| 009   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)  | [C#](C%23/9_PalindromeNumber.cs) |   
 | 008   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)  | [C#](C%23/8_StringToInteger(atoi).cs) |   
 | 013   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  | [Python](Python/013_RomantoInteger.py) |   
 | 015   | [3Sum](https://leetcode.com/problems/3sum/)  | [Python](Python/15_3Sum.py) |   
