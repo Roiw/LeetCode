@@ -81,6 +81,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 236   | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  | [C#](C%23/236_LowestCommonAncestorOfABinaryTree.cs), [Python](Python/236_LowestCommonAncestorOfABinaryTree.py) |    
 | 237   | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C#](C%23/237_DeleteNodeInALinkedList.cs) |   
 | 238   | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C#](C%23/238_ProductOfArrayExceptSelf.cs) |   
+| 260   | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](Python/260_SingleNumberIII.py) |   
 | 264   | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [C#](C%23/264_UglyNumberII.cs), [Python](Python/264_UglyNumberII.py) |   
 | 268   | [Missing Number](https://leetcode.com/problems/missing-number/)  | [C#](C%23/268_MissingNumber.cs) |   
 | 275   | [H-Index II](https://leetcode.com/problems/h-index-ii/)  | [C#](C%23/275_H-IndexII.cs) |   
