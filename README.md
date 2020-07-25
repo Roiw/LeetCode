@@ -148,7 +148,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 739   | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)  | [C#](C%23/739_DailyTemperatures.cs) 
 | 763   | [Partition Labels](https://leetcode.com/problems/partition-labels/)  | [C#](C%23/763_PartitionLabels.cs) 
 | 771   | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)  | [C#](C%23/771_JewelsAndStones.cs) 
-| 797   | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)  | [C#](C%23/797_AllPathsFromSourceToTarge.cs) 
+| 797   | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)  | [C#](C%23/797_AllPathsFromSourceToTarge.cs), [Python](Python/797_AllPathsFromSourceToTarget.py)
 | 807   | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)  | [C#](C%23/807_MaxIncreaseToKeepCitySkyline.cs) 
 | 811   | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)  | [C#](C%23/811_SubdomainVisitCount.cs) 
 | 831   | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/)  | [C#](C%23/831_MaskingPersonalInformation.cs) 
