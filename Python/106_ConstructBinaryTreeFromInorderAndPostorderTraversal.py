@@ -23,4 +23,30 @@ class Solution:
         root.right = self.buildTree(inorder[divisor+1:], reducedPost)
         return root
                 
+## Solution 2 -> Drastically increase memory usage 97% better than other Python3 submissions
+class Solution:
+    postorder = []
+    inorder = []
+    def treeBuilder(self, inOrderLowerRange:int, inOrderHigherRange:int):
+        if inOrderLowerRange >= inOrderHigherRange: return None        
+        root, rootIndex, divisor = TreeNode(), len(self.postorder)-1, -1        
+        while rootIndex >= 0:   
+            possibleRoot = self.postorder[rootIndex]
+            for x in range(inOrderLowerRange, inOrderHigherRange):
+                if self.inorder[x] == possibleRoot:
+                    divisor = x
+                    root.val = possibleRoot
+                    self.postorder.pop(rootIndex)
+                    break
+            if divisor != -1: break
+            rootIndex -= 1
         
+        root.left = self.treeBuilder(inOrderLowerRange, divisor)
+        root.right = self.treeBuilder(divisor + 1, inOrderHigherRange)
+        return root
+        
+    def buildTree(self, inorder: List[int], postorder: List[int]) -> TreeNode:        
+        self.postorder = postorder
+        self.inorder = inorder
+        return self.treeBuilder(0, len(inorder))              
+                
