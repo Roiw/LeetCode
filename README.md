@@ -149,6 +149,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 700   | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)  | [C#](C%23/700_SearchInABinarySearchTree.cs) |   
 | 704   | [Binary Search](https://leetcode.com/problems/binary-search/)  | [Python](Python/704_BinarySearch.py) |   
 | 701   | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)  | [C#](C%23/701_InsertIntoABinarySearchTree.cs) 
+| 705   | [Design HashSet](https://leetcode.com/problems/design-hashset/)  | [C#](C%23/705_DesignHashSet.cs) 
 | 709   | [To Lower Case](https://leetcode.com/problems/to-lower-case/)  | [C#](C%23/709_ToLowerCase.cs) 
 | 728   | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)  | [C#](C%23/728_SelfDividingNumbers.cs) 
 | 733   | [Flood Fill](https://leetcode.com/problems/flood-fill/)  | [C#](C%23/733_FloodFill.cs) 
