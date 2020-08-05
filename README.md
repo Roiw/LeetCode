@@ -98,6 +98,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 309   | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python](Python/309_BestTimeToBuyAndSellStockWithCooldown.py) |   
 | 328   | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)  | [C#](C%23/328_OddEvenLinkedList.cs) |
 | 338   | [Counting Bits](https://leetcode.com/problems/counting-bits/)  | [C#](C%23/338_CountingBits.cs) 
+| 342   | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python](Python/342_PowerOfFour.py) |  
 | 344   | [Reverse String](https://leetcode.com/problems/reverse-string/)  | [C#](C%23/344_ReverseString.cs) 
 | 347   | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  | [C#](C%23/347_TopKFrequentElements.cs) 
 | 359   | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)  | [C#](C%23/359_LoggerRateLimiter.cs) |   
