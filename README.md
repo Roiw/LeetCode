@@ -1,6 +1,6 @@
 # Leet Code Solutions
 
-My implementation of some Leet Code problems, data structures and algorithms
+My implementation of some Leet Code problems, data structures and algorithms.
 
 | #     | Problem Link                                           |  My Solution                                           |
 | ----- | -----------------------------------------------------  | -----------------------------------------------------  |
@@ -115,7 +115,8 @@ My implementation of some Leet Code problems, data structures and algorithms
 | 430   | [430. Flatten a Multilevel Doubly Linked Lis](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)  | [C#](C%23/430_FlattenAMultilevelDoublyLinkedList.cs) |   
 | 438   | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)  | [C#](C%23/438_FindAllAnagramsInAString.cs) |   
 | 441   | [Arranging Coins](https://leetcode.com/problems/arranging-coins/)  | [C#](C%23/441_ArrangingCoins.cs), [Python](Python/441_ArrangingCoins.py) |   
-| 445   | [Arranging Coins](https://leetcode.com/problems/arranging-coins/)  | [C#](C%23/441_ArrangingCoins.cs), [Python](Python/445_AddTwoNumbersII.py)|   
+| 441   | [Arranging Coins](https://leetcode.com/problems/arranging-coins/)  | [C#](C%23/441_ArrangingCoins.cs), [Python](Python/441_ArrangingCoins.py) |   
+| 442   | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)  | [C#](C%23/442_FindAllDuplicatesInAnArray.cs)|   
 | 451   | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)  | [C#](C%23/451_SortCharactersByFrequency.cs) |   
 | 455   | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)  | [Python](Python/455_AssignCookies.py) |   
 | 459   | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)  | [C#](C%23/459_RepeatedSubstringPattern.cs) |   
