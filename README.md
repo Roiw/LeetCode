@@ -190,6 +190,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 986   | [Time Based Key-Value Store](https://leetcode.com/problems/interval-list-intersections/)  | [C#](C%23/986_IntervalListIntersections.cs) |      
 | 987   | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)  | [C#](C%23/987_VerticalOrderTraversalOfABinaryTree.cs) |      
 | 993   | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)  | [C#](C%23/993_CousinsInBinaryTree.cs) |      
+| 994   | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)  | [C#](C%23/994_RottingOranges.cs) |   
 | 997   | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)  | [C#](C%23/997_FindTheTownJudge.cs) |      
 | 1002   | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)  | [C#](C%23/1002_FindCommonCharacters.cs) |   
 | 1007   | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)  | [C#](C%23/1007_MinimumDominoRotationsForEqualRow.cs) |   
