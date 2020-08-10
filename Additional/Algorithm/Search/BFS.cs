@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using TreeNode = DataStructures.Node;
-namespace Algorithm.Sorting 
+namespace Algorithm.Search 
 {
     public static class BFS
     {
