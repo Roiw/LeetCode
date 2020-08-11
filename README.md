@@ -65,6 +65,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 155   | [Min Stack](https://leetcode.com/problems/min-stack/)  | [C#](C%23/155_MinStack.cs) |   
 | 162   | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)  | [C#](C%23/162_FindPeakElement.cs) |
 | 169   | [Majority Element](https://leetcode.com/problems/majority-element/)  | [C#](C%23/169_MajorityElement.cs) |
+| 171   | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)  | [C#](C%23/171_ExcelSheetColumnNumber.cs) |
 | 189   | [Rotate Array](https://leetcode.com/problems/rotate-array/)  | [C#](C%23/189_RotateArray.cs) |   
 | 190   | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  | [C#](C%23/190_ReverseBits.cs) |   
 | 200   | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C#](C%23/200_NumberOfIslands.cs) |   
