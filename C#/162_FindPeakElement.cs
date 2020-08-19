@@ -1,24 +1,18 @@
 public class Solution {
+    private int BinarySearch(int[] arr, int min, int max) {
+        int mid = min + (max-min)/2;
+        bool biggerThanLeft = mid == 0 || mid > 0 && arr[mid] > arr[mid-1];
+        bool biggerThanRight = mid == arr.Length-1 || mid < arr.Length-1 && arr[mid] > arr[mid+1];
+        
+        if (biggerThanRight && biggerThanLeft)
+            return mid;
+        if (biggerThanRight)
+            return BinarySearch(arr, min, mid - 1);
+        else
+            return BinarySearch(arr, mid + 1, max);
+    }
+    
     public int FindPeakElement(int[] nums) {
-        
-        if (nums.Length == 1)
-            return 0;
-        
-        for (int i  = 0; i  < nums.Length; i++) {       
-            if (i == nums.Length -1) {
-                if (nums[i-1] < nums[i])
-                    return i;
-                continue;
-            }         
-            if (i == 0) {
-                if (nums[i+1] < nums[i])
-                    return i;
-                continue;
-            }             
-            if (nums[i-1] < nums[i] && nums[i+1] < nums[i])
-                return i;
-        }
-        return -1;
-        
+        return BinarySearch(nums, 0, nums.Length-1);
     }
 }
