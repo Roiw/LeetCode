@@ -164,6 +164,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 728   | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)  | [C#](C%23/728_SelfDividingNumbers.cs) 
 | 733   | [Flood Fill](https://leetcode.com/problems/flood-fill/)  | [C#](C%23/733_FloodFill.cs) 
 | 739   | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)  | [C#](C%23/739_DailyTemperatures.cs) 
+| 744   | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)  | [C#](C%23/744_FindSmallestLetterGreaterThanTarget.cs) 
 | 763   | [Partition Labels](https://leetcode.com/problems/partition-labels/)  | [C#](C%23/763_PartitionLabels.cs) 
 | 771   | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)  | [C#](C%23/771_JewelsAndStones.cs) 
 | 797   | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)  | [C#](C%23/797_AllPathsFromSourceToTarge.cs), [Python](Python/797_AllPathsFromSourceToTarget.py)
