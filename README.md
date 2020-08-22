@@ -105,6 +105,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 342   | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python](Python/342_PowerOfFour.py) |  
 | 344   | [Reverse String](https://leetcode.com/problems/reverse-string/)  | [C#](C%23/344_ReverseString.cs) 
 | 347   | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  | [C#](C%23/347_TopKFrequentElements.cs) 
+| 349   | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)  | [C#](C%23/349_IntersectionOfTwoArrays.cs) 
 | 359   | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)  | [C#](C%23/359_LoggerRateLimiter.cs) |   
 | 367   | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)  | [C#](C%23/367_ValidPerfectSquare.cs) 
 | 368   | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)  | [C#](C%23/368_LargestDivisibleSubset.cs) 
