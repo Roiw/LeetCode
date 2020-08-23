@@ -21,6 +21,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 034   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  | [C#](C%23/34_FindFirstAndLastPositionOfElementInSortedArray.cs) |   
 | 035   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)  | [C#](C%23/35_SearchInsertPosition.cs) |   
 | 038   | [Count and Say](https://leetcode.com/problems/count-and-say/)  | [C#](C%23/38_CountandSay.cs) |   
+| 039   | [Combination Sum](https://leetcode.com/problems/combination-sum/)  | [C#](C%23/39_CombinationSum.cs) |   
 | 041   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)  | [C#](C%23/41_FirstMissingPositive.cs) |   
 | 042   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)  | [C#](C%23/42_TrappingRainWater.cs) |   
 | 046   | [Permutations](https://leetcode.com/problems/permutations/)  | [C#](C%23/46_Permutations.cs) |   
@@ -42,6 +43,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 073   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)  | [C#](C%23/73_SetMatrixZeroes.cs) |   
 | 074   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)  | [C#](C%23/74_SearchA2DMatrix.cs) |   
 | 075   | [Sort Colors](https://leetcode.com/problems/sort-colors/)  | [C#](C%23/75_SortColors.cs) |   
+| 077   | [Combinations](https://leetcode.com/problems/combinations/)  | [C#](C%23/77_Combinations.cs) |   
 | 078   | [Subsets](https://https://leetcode.com/problems/subsets/)  | [C#](C%23/78_Subsets.cs) |   
 | 079   | [Word Search](https://leetcode.com/problems/word-search/)  | [C#](C%23/79_WordSearch.cs) |   
 | 080   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)  | [C#](C%23/80_RemoveDuplicatesFromSortedArrayII.cs) |   
