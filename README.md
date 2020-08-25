@@ -22,6 +22,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 035   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)  | [C#](C%23/35_SearchInsertPosition.cs) |   
 | 038   | [Count and Say](https://leetcode.com/problems/count-and-say/)  | [C#](C%23/38_CountandSay.cs) |   
 | 039   | [Combination Sum](https://leetcode.com/problems/combination-sum/)  | [C#](C%23/39_CombinationSum.cs) |   
+| 040   | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)  | [C#](C%23/40_CombinationSumII.cs) |   
 | 041   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)  | [C#](C%23/41_FirstMissingPositive.cs) |   
 | 042   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)  | [C#](C%23/42_TrappingRainWater.cs) |   
 | 046   | [Permutations](https://leetcode.com/problems/permutations/)  | [C#](C%23/46_Permutations.cs) |   
