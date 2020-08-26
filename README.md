@@ -143,6 +143,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 515   | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)  | [C#](C%23/515_FindLargestValueInEachTreeRow.cs) |   
 | 520   | [Detect Capital](https://leetcode.com/problems/detect-capital/)  | [Python](Python/520_DetectCapital.py) |   
 | 525   | [Contiguous Array](https://leetcode.com/problems/contiguous-array/)  | [C#](C%23/525_ContiguousArray.cs) |   
+| 526   | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)  | [C#](C%23/526_BeautifulArrangement.cs) |   
 | 528   | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)  | [C#](C%23/528_RandomPickWithWeight.cs) |   
 | 540   | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)  | [C#](C%23/540_SingleElementInASortedArray.cs) |   
 | 543   | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)  | [C#](C%23/543_DiameterOfBinaryTree.cs) |   
