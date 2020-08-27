@@ -15,6 +15,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 019   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  | [C#](C%23/19_RemoveNthNodeFromEndOfList.cs) |   
 | 020   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  | [C#](C%23/20_ValidParentheses.cs) |   
 | 021   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | [C#](C%23/21_MergeTwoSortedLists.cs) |   
+| 022   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)  | [C#](C%23/22_GenerateParentheses.cs) |   
 | 024   | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)  | [C#](C%23/24_SwapNodesInPairs.cs) |   
 | 026   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [C#](C%23/26_RemoveDuplicatesFromSortedArray.cs), [Python](Python/26_RemoveDuplicatesFromSortedArray.py) |    
 | 033   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)  | [C#](C%23/33_SearchInRotatedSortedArray.cs) |   
