@@ -178,6 +178,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 797   | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)  | [C#](C%23/797_AllPathsFromSourceToTarge.cs), [Python](Python/797_AllPathsFromSourceToTarget.py)
 | 807   | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)  | [C#](C%23/807_MaxIncreaseToKeepCitySkyline.cs) 
 | 811   | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)  | [C#](C%23/811_SubdomainVisitCount.cs) 
+| 814   | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)  | [C#](C%23/814_BinaryTreePruning.cs) 
 | 831   | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/)  | [C#](C%23/831_MaskingPersonalInformation.cs) 
 | 821   | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)  | [Python](Python/821_ShortestDistanceToACharacter.py) |
 | 844   | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  | [C#](C%23/844_BackspaceStringCompare.cs), [Python](Python/844_BackspaceStringCompare.py) 
