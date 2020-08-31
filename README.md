@@ -102,6 +102,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 279   | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)  | [C#](C%23/279_PerfectSquares.cs) |   
 | 283   | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | [Kotlin](Kotlin/283_MoveZeroes.kt) |   
 | 287   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | [C#](C%23/287_FindTheDuplicateNumber.cs) |
+| 295   | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)  | [C#](C%23/295_FindMedianFromDataStream.cs) |
 | 299   | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | [C#](C%23/299_BullsAndCows.cs) |
 | 304   | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)  | [C#](C%23/304_RangeSumQuery2DImmutable.cs) |
 | 309   | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python](Python/309_BestTimeToBuyAndSellStockWithCooldown.py) |   
