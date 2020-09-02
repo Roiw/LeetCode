@@ -191,6 +191,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 890   | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)  | [C#](C%23/890_FindAndReplacePattern.cs) |      
 | 894   | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)  | [C#](C%23/894_AllPossibleFullBinaryTrees.cs) |      
 | 895   | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)  | [C#](C%23/895_MaximumFrequencyStack.cs) |      
+| 896   | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)  | [C#](C%23/896_MonotonicArray.cs) | 
 | 901   | [Online Stock Span](https://leetcode.com/problems/online-stock-span/)  | [C#](C%23/901_OnlineStockSpan.cs) | 
 | 905   | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)  | [C#](C%23/905_SortArrayByParity.cs) | 
 | 908   | [Smallest Range I](https://leetcode.com/problems/smallest-range-i/)  | [Python](Python/908_SmallestRangeI.py) | 
