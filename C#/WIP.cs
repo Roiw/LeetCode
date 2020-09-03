@@ -1,101 +1,53 @@
 public class Solution {
-    // 23
-    /*
-        Think of this as a DECISION TREE
-        
-        [ _ , _ , _ ]
-         ^   ^
-         
-         1 - Move p1 right
-         1 - Move p0 right   Can have up to two children :-)
-         
-         [ p0, p1, _ ]
-         [ p0, ]
-        
-    */
     
-    private bool CheckValid(int[] A, int p0, int p1) {
-        bool cond1 = true, cond2 = true, cond3 = true;
-
-        int i = 0, j = p0 + 1;
-        while (i <= p0 && j < p1) {
-            if (A[i] == 0){
-                i++; continue;
-            }
-            if (A[j] == 0){
-                j++; continue;
-            }
-            if (A[i] != A[j]) {
-                cond1 = false; break;
-            }
-            i++; j++;
+    // Check if partition 1 is bigger, smaller or equal than partition 0.
+    private int CheckPartitions(int[] A, (int,int)partition0, (int,int) partition1) {
+        (int startP0, int endP0) = partition0;
+        (int startP1, int endP1) = partition1;
+        
+        int i = startP0, j = startP1;
+        int ans = 0;
+        while (i >= endP0 && j >= endP1) {
+            ans = (A[i] < A[j])? 1: A[i] == A[j]? ans: -1;
+            i--; j--;
+        }
+        // Remaining on partition 0..
+        while (i >= endP0){
+            if (A[i] != 0) return -1;
+            i--;
+        }
+        // Remaining on partition 1..
+        while (j >= endP1){
+            if (A[j] != 0) return 1;
+            j--;
         }
         
-        i = p0 + 1; j = p1;
-        while (i < p1 && j < A.Length) {
-            if (A[i] == 0){
-                i++; continue;
-            }
-            if (A[j] == 0){
-                j++; continue;
-            }
-            if (A[i] != A[j]) {
-                cond2 = false; break;
-            }
-            i++; j++;
-        }
-        
-        i = 0; j = p1;
-        while (i <= p0 && j < A.Length) {
-            if (A[i] == 0){
-                i++; continue;
-            }
-            if (A[j] == 0){
-                j++; continue;
-            }
-            if (A[i] != A[j]) {
-                cond3 = false; break;
-            }
-            i++; j++;
-        }
-        
-        return cond1 && cond2 && cond3;
-    }
-    
-    // Check if partition configuration is valid.
-    private (int, int, int) GetPartitions(int[] A, int p0, int p1) {
-        double num1 = 0, num2 = 0, num3 = 0;
-        // num 1 
-        for (int i = 0; i <= p0; i++){
-            num1 += (Math.Pow(2, (double)(p0 - i)) * A[i]);
-        }
-        // num 2
-        for (int i = p0 + 1; i < p1; i++){
-            num2 += (Math.Pow(2, (double) ((p1 - 1) - i) ) * A[i]);
-        }
-        // num 3
-        for (int i = p1; i < A.Length; i++){
-            num3 += (Math.Pow(2, (double)((A.Length - 1) - i) ) * A[i]);
-        }
-        return ((int)num1, (int)num2, (int)num3);
-    }
+        return ans;
+    } 
     
     // Roll down on the tree.
     private int[] Tree(int[] A, int p0, int p1) {
         
-        // Base case..
-        if (CheckValid(A, p0, p1))
-            return new int[]{p0,p1};
+        (int,int) rangePartition0 = (p0, 0);
+        (int,int) rangePartition1 = (p1 - 1, p0 + 1);
+        (int,int) rangePartition2 = (A.Length - 1, p1);
         
+        int cond1 = CheckPartitions(A, rangePartition0, rangePartition1);
+        int cond2 = CheckPartitions(A, rangePartition1, rangePartition2);
+        
+    
+        // Base case..
+        if (cond1 == 0 && cond2 == 0)
+            return new int[]{p0,p1};
        
         // Can move p0?
-        if (p0 < p1 - 2 ){
+        if (p0 < p1 - 2 && cond1 == 1){
             int[] ans = Tree(A, p0 + 1, p1);
             if (ans != null) return ans;
         }
         
         // Can move p1?
-        if (p1 < A.Length - 1) {
+        if (p1 < A.Length - 1 && cond2 == 1) {
             int[] ans = Tree(A, p0, p1 + 1);
             if (ans != null) return ans;
         }
@@ -107,5 +59,62 @@ public class Solution {
         int[] ans = Tree(A, 0, 2);
         
         return ans == null? new int[]{-1,-1}: ans;
+    }
+}
+
+
+// # Approach 2
+
+public class Solution {
+
+    // Key Ideas: 
+    // All partitions must have the same number of 1's
+    // The number of 1's must be multiple of 3 (we have 3 partitions).
+    
+    public int[] ThreeEqualParts(int[] A) {
+        
+        // Total number of 1's in the array.
+        int totalOnes = 0;
+        for (int i = 0; i < A.Length; i++)
+            totalOnes = A[i] == 1? totalOnes + 1: totalOnes;
+        
+        // Check if the array is valid.
+        if (totalOnes % 3 != 0) return new int[] { -1, -1 };
+        
+        // Amount of 1's per partition.
+        int onesPerPartition = totalOnes / 3; 
+        
+        // Finding P1: the first 'onesPerPartition' ones from right..
+        int start = A.Length - 1, ones = 0;
+        while (ones <= onesPerPartition) {
+            if (A[start] == 1) ones++;
+            if (ones <= onesPerPartition) start--;
+        }
+        
+        int p1 = start + 1; // Found p1.
+        
+        // Verify next partition starting at p1.. (finds p0..)
+        int j = A.Length-1;
+        ones = 0; 
+        while (ones <= onesPerPartition) {
+            if (A[start] != A[j]) return new int[] { -1, -1 };
+            if (A[start] == 1) ones++;
+            if (ones <= onesPerPartition) start--;
+            j--;
+        }
+        
+        int p0 = start; // Adjust p0
+        
+        // Verify next partition starting from possible p0..
+        ones = 0; j = A.Length-1;
+        while (ones != onesPerPartition) {
+            if (A[start] != A[j]) return new int[] { -1, -1 };
+            if (A[start] == 1) ones++;
+            if (ones <= onesPerPartition) start--;
+            j--;
+        }
+    
+    
+        return new int[] { p0, p1 } ;
     }
 }

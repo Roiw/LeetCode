@@ -101,6 +101,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 278   | [First Bad Version](https://leetcode.com/problems/first-bad-version/)  | [C#](C%23/278_FirstBadVersion.cs) |   
 | 279   | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)  | [C#](C%23/279_PerfectSquares.cs) |   
 | 283   | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | [Kotlin](Kotlin/283_MoveZeroes.kt) |   
+| 284   | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)  | [C#](C%23/284_PeekingIterator.cs) |    
 | 287   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | [C#](C%23/287_FindTheDuplicateNumber.cs) |
 | 295   | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)  | [C#](C%23/295_FindMedianFromDataStream.cs) |
 | 299   | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | [C#](C%23/299_BullsAndCows.cs) |
