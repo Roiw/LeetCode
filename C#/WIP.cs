@@ -63,7 +63,7 @@ public class Solution {
 }
 
 
-// # Approach 2
+// # Approach 2.
 
 public class Solution {
 
