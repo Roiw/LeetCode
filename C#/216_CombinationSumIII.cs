@@ -25,3 +25,32 @@ public class Solution {
         return elems;
     }
 }
+
+// Version II
+public class Solution {
+    
+    // Backtracking/DFS problem
+    private List<IList<int>> _combinations = new List<IList<int>>();
+    
+    private void GenerateCombination(int k, int n, int start, List<int> combination){
+        if (k == 0 && n == 0) {
+            _combinations.Add(new List<int>(combination));
+            return;
+        }
+        if ( n < 0  || k < 0 ) 
+            return; // Pruning
+        
+        for (int i = start; i <= 9; i++)
+        {
+            combination.Add(i);
+            GenerateCombination(k - 1, n - i, i+1, combination);
+            combination.RemoveAt(combination.Count-1);
+        }
+    }
+     
+    public IList<IList<int>> CombinationSum3(int k, int n) {
+        _combinations = new List<IList<int>>();
+        GenerateCombination(k, n, 1, new List<int>());
+        return _combinations;
+    }
+}
