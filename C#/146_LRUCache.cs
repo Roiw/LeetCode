@@ -1,42 +1,55 @@
+
+/*
+Get -> returns the key if it exists on the list,
+
+Put -> add new key, evicts the least recently used. 
+        
+Approach 1: LinkedList + Dictionary of (Key, ListNode)      
+*/
+
 public class LRUCache {
     
-    Dictionary<int,(int, LinkedListNode<int>)> vals;
-	LinkedList<int> ls;
-	private int _capacity = 0;
+    // List of element priorities
+    private LinkedList<int> _priority;
+    private Dictionary<int, (LinkedListNode<int> node, int val) > _elems;
+    private int _capacity;
     
     public LRUCache(int capacity) {
-	    ls = new LinkedList<int>();
-	    vals = new Dictionary<int,(int, LinkedListNode<int>)>();
-	    _capacity = capacity;
+        _elems = new Dictionary<int, (LinkedListNode<int> node, int val)>();
+        _priority = new LinkedList<int>();
+        _capacity = capacity;
     }
     
     public int Get(int key) {
-	    if (!vals.ContainsKey(key))
-		    return -1;
+        if (!_elems.ContainsKey(key)) return -1;
         
-	    (int val, LinkedListNode<int> n) = vals[key];
-	    int k = n.Value;
-	    ls.Remove(n);
-	    vals[key] = (val, ls.AddLast(k));
-	    return val;
+        var elem = _elems[key];
+        _priority.Remove(elem.node);
+        _priority.AddFirst(elem.node);
+        return elem.val;       
     }
     
     public void Put(int key, int value) {
-	    if (vals.ContainsKey(key)){
-		(int val, LinkedListNode<int> node) = vals[key]; 
-		int k = node.Value;
-		ls.Remove(node);
-		vals[key] = (value, ls.AddLast(k));
-		return;
-	    }   
-            
-	    if (_capacity == ls.Count)  {
-		    int k = ls.First.Value;
-		    ls.RemoveFirst();
-		    vals.Remove(k);       
-	    }
-	    // Add normally..
-	    vals[key] = (value, ls.AddLast(key));
+        // Modify only.
+        if (_elems.ContainsKey(key)) {
+            var elem = _elems[key];
+            _priority.Remove(elem.node);
+            _priority.AddFirst(elem.node);
+            _elems[key] = (elem.node, value);
+            return;
+        }
+        
+        // Add to LRU
+        
+        // Check if we need to remove the least recently used..
+        if (_priority.Count == _capacity) {
+            _elems.Remove(_priority.Last.Value);
+            _priority.RemoveLast();
+        }
+        
+        // Add to list and to elems..
+        _priority.AddFirst(key);
+        _elems.Add(key, (_priority.First, value));      
     }
 }
 
@@ -46,4 +59,3 @@ public class LRUCache {
  * int param_1 = obj.Get(key);
  * obj.Put(key,value);
  */
- 
