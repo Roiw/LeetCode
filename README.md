@@ -240,6 +240,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1207   | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)  | [C#](C%23/1207_UniqueNumberOfOccurrences.cs) |     
 | 1221   | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)  | [C#](C%23/1221_SplitAStringInBalancedStrings.cs) |  
 | 1222   | [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)  | [C#](C%23/1222_QueensThatCanAttackTheKing.cs) |  
+| 1229   | [1229. Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/)  | [C#](C%23/1229_MeetingScheduler.cs) |  
 | 1232   | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)  | [C#](C%23/1232_CheckIfItIsAStraightLine.cs) |   
 | 1252   | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)  | [C#](C%23/1252_CellsWithOddValuesInAMatrix.cs) |     
 | 1266   | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)  | [C#](C%23/1266_MinimumTimeVisitingAllPoints.cs) |     
