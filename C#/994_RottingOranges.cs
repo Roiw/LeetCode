@@ -1,56 +1,65 @@
 public class Solution {
     public int OrangesRotting(int[][] grid) {
-        // Identify (X, Y) for each rotten orange.
-        // If none retun -1.
-        // For each rottenOranges, add all neighbours that were good oranges to rottenOranges.
-        // Increment the minute count (+1)
-        // For every new rotten apple we subtract from the number of good apples left. 
-        // If we reached 0  return the amount of minutes.
+
+        /*
+        #Step 1:
+            1- Run through matrix
+            2- for every rotten orange-> add to a queue
+            3- Count number of good oranges.
+
+        #Step 2:
+            1 - While there iis oranges on the queue
+                make all its neighbors rotten, 
+                add them to queue.
+                increase minutes counter. (x, y, m)
+                
+            2- Check if we rotten all the oranges, otherwise return -1
+        */
         
         // Idenfying rotten oranges..
-        HashSet<(int,int)> visited = new HashSet<(int,int)>();
-        Queue<(int,int,int)> rottenOranges = new Queue<(int,int,int)>(); 
+      
+        int[][] direction = new int[4][] { 
+            new int[2] {-1, 0}, 
+            new int[2] {1, 0},
+            new int[2] {0, 1}, 
+            new int[2] {0, -1} };
+        
+        Queue<(int x, int y, int m)> queue = new Queue<(int, int, int)>();
         int goodOranges = 0;
-        for (int i = 0; i < grid.Length; i++) {
-            for (int j = 0; j < grid[i].Length; j++) {
-                if (grid[i][j] == 2){
-                    visited.Add((i, j));
-                    rottenOranges.Enqueue((i, j, 0));
-                }
-                if (grid[i][j] == 1)
-                    goodOranges++;
-            }
+
+        // STEP 1: Adding bad oranges to queue and counting good ones.
+        for (int i = 0; i < grid.Length; i++){
+          for (int j = 0; j < grid[i].Length; j++) {
+            if (grid[i][j] == 2)
+              queue.Enqueue((i, j, 0));
+            if (grid[i][j] == 1)
+              goodOranges++;
+          }
         }
-        if (goodOranges == 0) return 0;
-        if (rottenOranges.Count == 0) return -1;
-            
-        // Start moving time and checking oranges..
-        while (rottenOranges.Count > 0) {
-            (int i, int j, int time) = rottenOranges.Dequeue();
-            // Check left
-            if (j > 0 && grid[i][j-1] == 1 && visited.Add((i, j - 1))) {
-                rottenOranges.Enqueue((i, j - 1, time + 1));
-                goodOranges--;
-            }          
-            // Check right
-            if (j < grid[i].Length - 1 && grid[i][j + 1] == 1 && visited.Add((i , j + 1))) {
-                rottenOranges.Enqueue((i, j + 1, time + 1));
-                goodOranges--;
+
+        int minutes = 0;
+
+        // STEP 2
+        while (queue.Count > 0) {
+
+          var orange = queue.Dequeue();
+          minutes = minutes < orange.m ? orange.m : minutes;
+
+          // Turn all its neighbors bad.
+          foreach (int[] dir in direction) {
+            (int x, int y, int m) = orange;
+            x += dir[0];
+            y += dir[1];
+            if (x >= 0 && x < grid.Length && y >= 0 &&  y < grid[x].Length) {
+              if (grid[x][y] == 1){
+                queue.Enqueue((x, y, m + 1));
+                grid[x][y] = 2;
+                goodOranges--;  
+              }
             }
-            
-            // Check up
-            if (i > 0 && grid[i - 1][j] == 1 && visited.Add((i - 1, j))) {
-                rottenOranges.Enqueue((i -1, j, time + 1));
-                goodOranges--;
-            }
-                
-            // Check bottom
-            if (i < grid.Length - 1 && grid[i + 1][j] == 1 && visited.Add((i + 1, j))) {
-                rottenOranges.Enqueue((i + 1, j, time + 1));
-                goodOranges--;
-            }          
-            if (goodOranges == 0) return time + 1;
+          }
         }
-        return -1;
+
+        return goodOranges > 0? -1 : minutes;
     }
 }
