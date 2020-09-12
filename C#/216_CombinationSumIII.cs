@@ -26,10 +26,18 @@ public class Solution {
     }
 }
 
-// Version II
-public class Solution {
+
+/*
+    // Version II
+    Backtracking Approach (Decision Tree)
     
-    // Backtracking/DFS problem
+    For k = 3 yields a combination like this [_,_,_]
+    
+    Recursive function (Navigating the tree):
+        For each position of the combination, we can select one number from 1 to 9
+        Once we get to sum = N and all positions are completed we can add to our list of combinations.
+    */
+public class Solution {
     private List<IList<int>> _combinations = new List<IList<int>>();
     
     private void GenerateCombination(int k, int n, int start, List<int> combination){
