@@ -128,8 +128,8 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 402   | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)  | [C#](C%23/402_RemoveKDigits.cs) |   
 | 403   | [Frog Jump](https://leetcode.com/problems/frog-jump/)  | [C#](C%23/403_FrogJump.cs) |   
 | 406   | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)  | [C#](C%23/406_QueueReconstructionByHeight.cs) |   
+| 412   | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)  | [C#](C%23/412_FizzBuzz.cs) |   
 | 415   | [Add Strings](https://leetcode.com/problems/add-strings/)  | [C#](C%23/415_AddStrings.cs) |   
-| 422   | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)  | [C#](C%23/422_FizzBuzz.cs) |   
 | 430   | [430. Flatten a Multilevel Doubly Linked Lis](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)  | [C#](C%23/430_FlattenAMultilevelDoublyLinkedList.cs) |   
 | 437   | [Path Sum III](https://leetcode.com/problems/path-sum-iii/)  | [C#](C%23/437_PathSumIII.cs) |   
 | 438   | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)  | [C#](C%23/438_FindAllAnagramsInAString.cs) |   
