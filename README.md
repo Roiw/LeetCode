@@ -267,3 +267,4 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1379   | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)  | [C#](C%23/1379_FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.cs) |     
 | 1436   | [Destination City](https://leetcode.com/problems/destination-city/)  | [C#](C%23/1436_DestinationCity.cs) |     
 | 1535   | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/)  | [C#](C%23/1535_FindTheWinnerOfAnArrayGame.cs) |     
+| 1582   | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)  | [C#](C%23/1582_SpecialPositionsInABinaryMatrix.cs) |     
