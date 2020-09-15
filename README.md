@@ -266,5 +266,6 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1374   | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)  | [C#](C%23/1374_GenerateAStringWithCharactersThatHaveOddCounts.cs) |     
 | 1379   | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)  | [C#](C%23/1379_FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.cs) |     
 | 1436   | [Destination City](https://leetcode.com/problems/destination-city/)  | [C#](C%23/1436_DestinationCity.cs) |     
+| 1477   | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)  | [C#](C%23/1477_FindTwoNonOverlappingSubArraysEachWithTargetSum.cs) |     
 | 1535   | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/)  | [C#](C%23/1535_FindTheWinnerOfAnArrayGame.cs) |     
 | 1582   | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)  | [C#](C%23/1582_SpecialPositionsInABinaryMatrix.cs) |     
