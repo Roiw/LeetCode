@@ -51,6 +51,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 078   | [Subsets](https://https://leetcode.com/problems/subsets/)  | [C#](C%23/78_Subsets.cs) |   
 | 079   | [Word Search](https://leetcode.com/problems/word-search/)  | [C#](C%23/79_WordSearch.cs) |   
 | 080   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)  | [C#](C%23/80_RemoveDuplicatesFromSortedArrayII.cs) |   
+| 083   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | [Python](Python/83_RemoveDuplicatesFromSortedList.py) |       
 | 092   | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)  | [C#](C%23/92_ReverseLinkedListII.cs) |   
 | 100   | [Same Tree](https://leetcode.com/problems/same-tree/)  | [C#](C%23/100_SameTree.cs), [Python](Python/100_SameTree.py) |       
 | 103   | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)  | [C#](C%23/103_BinaryTreeZigzagLevelOrderTraversal.cs) |   
@@ -136,6 +137,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 441   | [Arranging Coins](https://leetcode.com/problems/arranging-coins/)  | [C#](C%23/441_ArrangingCoins.cs), [Python](Python/441_ArrangingCoins.py) |   
 | 441   | [Arranging Coins](https://leetcode.com/problems/arranging-coins/)  | [C#](C%23/441_ArrangingCoins.cs), [Python](Python/441_ArrangingCoins.py) |   
 | 442   | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)  | [C#](C%23/442_FindAllDuplicatesInAnArray.cs)|   
+| 450   | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)  | [C#](C%23/451_SortCharactersByFrequency.cs) |   
 | 451   | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)  | [C#](C%23/451_SortCharactersByFrequency.cs) |   
 | 455   | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)  | [Python](Python/455_AssignCookies.py) |   
 | 459   | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)  | [C#](C%23/459_RepeatedSubstringPattern.cs) |   

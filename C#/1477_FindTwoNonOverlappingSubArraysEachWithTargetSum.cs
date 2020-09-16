@@ -1,6 +1,5 @@
 /*
-
-    WIP: 
+    WIP: Sliding window
 */
 
 public class Solution {
