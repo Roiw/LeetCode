@@ -109,6 +109,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 287   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | [C#](C%23/287_FindTheDuplicateNumber.cs) |
 | 295   | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)  | [C#](C%23/295_FindMedianFromDataStream.cs) |
 | 299   | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | [C#](C%23/299_BullsAndCows.cs) |
+| 300   | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  | [C#](C%23/300_LongestIncreasingSubsequence.cs) |
 | 301   | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)  | [C#](C%23/301_RemoveInvalidParentheses.cs) |
 | 304   | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)  | [C#](C%23/304_RangeSumQuery2DImmutable.cs) |
 | 309   | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python](Python/309_BestTimeToBuyAndSellStockWithCooldown.py) |   
