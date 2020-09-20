@@ -235,6 +235,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1047   | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)  | [C#](C%23/1047_RemoveAllAdjacentDuplicatesInString.cs) |       
 | 1051   | [Height Checker](https://leetcode.com/problems/height-checker/)  | [C#](C%23/1051_HeightChecker.cs) |       
 | 1055   | [Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/)  | [C#](C%23/1055_ShortestWayToFormString.cs) |     
+| 1091   | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)  | [C#](C%23/1091_ShortestPathInBinaryMatrix.cs) |     
 | 1106   | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/)  | [C#](C%23/1106_ParsingABooleanExpression.cs) |     
 | 1104   | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/)  | [C#](C%23/1104_PathInZigzagLabelledBinaryTree.cs) |   
 | 1108   | [Defanging An Ip Address](https://leetcode.com/problems/defanging-an-ip-address/)  | [Python](Python/1108_DefangingAnIpAddress.py) |     
