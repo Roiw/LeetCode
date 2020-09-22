@@ -36,6 +36,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 054   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)  | [C#](C%23/54_SpiralMatrix.cs) |   
 | 055   | [Jump Game](https://leetcode.com/problems/jump-game/)  | [C#](C%23/55_JumpGame.cs) |   
 | 058   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)  | [C#](C%23/58_LengthOfLastWord.cs) |   
+| 059   | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)  | [C#](C%23/59_SpiralMatrixII.cs) |   
 | 060   | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)  | [C#](C%23/60_PermutationSequence.cs) |   
 | 061   | [Rotate List](https://leetcode.com/problems/rotate-list/)  | [C#](C%23/61_RotateList.cs) |   
 | 062   | [Unique Paths](https://leetcode.com/problems/unique-paths/)  | [C#](C%23/62_UniquePaths.cs) |   
