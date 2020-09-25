@@ -258,6 +258,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1281   | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)  | [C#](C%23/1281_SubtractTheProductAndSumOfDigitsOfAnInteger.cs) |  
 | 1282   | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)  | [C#](C%23/1282_GroupThePeopleGivenTheGroupSizeTheyBelongTo.cs) |  
 | 1290   | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)  | [C#](C%23/1290_ConvertBinaryNumberInALinkedListToInteger) |  
+| 1291   | [Sequential Digits](https://leetcode.com/problems/sequential-digits/)  | [C#](C%23/1291_SequentialDigits) |  
 | 1295   | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)  | [C#](C%23/1295_FindNumbersWithEvenNumberOfDigits.cs) |  
 | 1302   | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)  | [C#](C%23/1302_DeepestLeavesSum.cs) |     
 | 1305   | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)  | [C#](C%23/1305_AllElementsInTwoBinarySearchTrees.cs) |     
