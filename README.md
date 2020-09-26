@@ -68,6 +68,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 130   | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)  | [C#](C%23/130_SurroundedRegions.cs) |   
 | 136   | [Single Number](https://leetcode.com/problems/single-number/)  | [C#](C%23/136_SingleNumber.cs), [Kotlin](Kotlin/136_SingleNumber.kt) |   
 | 137   | [Single Number II](https://leetcode.com/problems/single-number-ii/)  | [C#](C%23/137_SingleNumberII.cs) |   
+| 138   | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  | [C#](C%23/138_CopyListWithRandomPointer.cs) |   
 | 146   | [LRU Cache](https://leetcode.com/problems/lru-cache/)  | [C#](C%23/146_LRUCache.cs) |   
 | 151   | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)  | [C#](151_ReverseWordsInAString.cs), [C++](C%2B%2B/151_ReverseWordsInAString.cpp) |   
 | 153   | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)  |  [C#](C%23/153_FindMinimumInRotatedSortedArray.cs) |
