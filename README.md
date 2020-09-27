@@ -281,4 +281,5 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1525   | [Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/)  | [C#](C%23/1525_NumberOfGoodWaysToSplitAString.cs) |     
 | 1535   | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/)  | [C#](C%23/1535_FindTheWinnerOfAnArrayGame.cs) |     
 | 1582   | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)  | [C#](C%23/1582_SpecialPositionsInABinaryMatrix.cs) | 
-| 1598   | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)  | [C#](C%23/1598_CrawlerLogFolder.cs) |     
+| 1598   | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)  | [C#](C%23/1598_CrawlerLogFolder.cs) |  
+| 1599   | [Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/)  | [C#](C%23/1599_MaximumProfitOfOperatingACentennialWheel.cs) |       
