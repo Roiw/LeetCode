@@ -1,12 +1,14 @@
 public class Solution {
     public string ReverseWords(string s) {
-        string[] splitted = s.Split(" ");
-        string ans = "";
+        s = s.Trim();
+        string[] splitted = s.Split(' ');
+        StringBuilder ans = new StringBuilder("", s.Length);
         int i = splitted.Length;
         while (i --> 0) {
             if (splitted[i] == "") continue;
-            ans += (splitted[i] + " ");
+            ans.Append(splitted[i]);
+            if (i > 0) ans.Append(" ");
         }         
-        return ans.Trim();
+        return ans.ToString();
     }
 }
