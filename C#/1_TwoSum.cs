@@ -13,26 +13,24 @@ public class Solution {
 }
 
 
-/* 
-    - Hash O(N), S(N)
-        The idea is to create a hash with nums.
-        foreach element in nums we look for the 'complement' on the hash
-            if it exist on the hash we can look for it's index on the following positions.
-    
-    */
+/*
+    Dictionary solution O(N), S(N)
+    One pass.
 
+*/
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
-        HashSet<int> elems = new HashSet<int>(nums);
+        Dictionary<int, int> elements = new Dictionary<int, int>();
+        
         for (int i = 0; i < nums.Length; i++) {
-            int pair = target - nums[i];
-            if (!elems.Contains(pair))
-                continue;
-            for (int j = i + 1; j < nums.Length; j++) {
-                if (nums[j] == pair)
-                    return new int[]{i,j};
-            }               
+            
+            int needed = target - nums[i];
+            
+            if (elements.ContainsKey(needed)) 
+                return new int[] {i, elements[needed]};
+            
+            elements.TryAdd(nums[i], i);
         }
-        return new int[]{-1,-1};
+        return null;
     }
 }
