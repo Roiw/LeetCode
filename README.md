@@ -45,6 +45,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 067   | [Add Binary](https://leetcode.com/problems/add-binary/)  | [C#](C%23/67_AddBinary.cs), [Python](Python/67_AddBinary.py) |   
 | 069   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)  | [C#](C%23/69_SqrtX.cs) |   
 | 070   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  | [C#](C%23/70_ClimbingStairs.cs) |   
+| 071   | [Simplify Path](https://leetcode.com/problems/simplify-path/)  | [C#](C%23/71_SimplifyPath.cs) |   
 | 073   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)  | [C#](C%23/73_SetMatrixZeroes.cs) |   
 | 074   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)  | [C#](C%23/74_SearchA2DMatrix.cs) |   
 | 075   | [Sort Colors](https://leetcode.com/problems/sort-colors/)  | [C#](C%23/75_SortColors.cs) |   
