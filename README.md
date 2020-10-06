@@ -58,7 +58,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 100   | [Same Tree](https://leetcode.com/problems/same-tree/)  | [C#](C%23/100_SameTree.cs), [Python](Python/100_SameTree.py) |       
 | 103   | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)  | [C#](C%23/103_BinaryTreeZigzagLevelOrderTraversal.cs) |   
 | 106   | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)  | [Python](Python/106_ConstructBinaryTreeFromInorderAndPostorderTraversal.py) |       
-| 107   | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)  | [C#](C%23/107_BinaryTreeLevelOrderTraversalII.cs), [Python](Python/107_BinaryTreeLevelOrderTraversalII.py)|   
+| 107   | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)  | [C#](C%23/107_BinaryTreeLevelOrderTraversalII.cs), [JavaScript](JavaScript/107_BinaryTreeLevelOrderTraversalII.js), [Python](Python/107_BinaryTreeLevelOrderTraversalII.py)|   
 | 112   | [Path Sum](https://leetcode.com/problems/path-sum/)  | [C#](C%23/112_PathSum.cs) |   
 | 118   | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)  | [C#](C%23/118_PascalsTriangle.cs) |   
 | 121   | [Best Time to Buy and Sell Stock I](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | [C#](C%23/121_BestTimeToBuyAndSellStock.cs) |   
@@ -277,6 +277,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1351   | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)  | [C#](C%23/1351_CountNegativeNumbersInASortedMatrix.cs) |     
 | 1365   | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)  | [C#](C%23/1365_HowManyNumbersAreSmallerThanTheCurrentNumber.cs) |     
 | 1370   | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)  | [C#](C%23/1370_IncreasingDecreasingString.cs) |     
+| 1372   | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)  | [C#](C%23/1372_LongestZigZagPathInABinaryTree.cs) |     
 | 1374   | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)  | [C#](C%23/1374_GenerateAStringWithCharactersThatHaveOddCounts.cs) |     
 | 1379   | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)  | [C#](C%23/1379_FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.cs) |     
 | 1436   | [Destination City](https://leetcode.com/problems/destination-city/)  | [C#](C%23/1436_DestinationCity.cs) |     
