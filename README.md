@@ -63,7 +63,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 118   | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)  | [C#](C%23/118_PascalsTriangle.cs) |   
 | 121   | [Best Time to Buy and Sell Stock I](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | [C#](C%23/121_BestTimeToBuyAndSellStock.cs) |   
 | 122   | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)  | [Kotlin](Kotlin/122_BestTimeToBuyAndSellStockII.kt) |   
-| 124   | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)  | [C#](C%23/124_BinaryTreeMaximumPathSum.cs) |   
+| 124   | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)  | [C#](C%23/124_BinaryTreeMaximumPathSum.cs), [JavaScript](JavaScript/124_BinaryTreeMaximumPathSum.js) |   
 | 125   | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  | [Python](Python/125_ValidPalindrome.py), [C#](C%23/125_ValidPalindrome.cs) |     
 | 128   | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)  | [C#](C%23/128_LongestConsecutiveSequence.cs) |   
 | 130   | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)  | [C#](C%23/130_SurroundedRegions.cs) |   
