@@ -95,6 +95,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 217   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  | [Python](Python/217_ContainsDuplicate.py), [C#](C%23/217_ContainsDuplicate.cs) |    
 | 221   | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [C#](C%23/221_MaximalSquare.cs) |  
 | 222   | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [C#](C%23/222_CountCompleteTreeNodes.cs) |   
+| 224   | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [JavaScript](C%23/224_BasicCalculator.js) |   
 | 226   | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C#](C%23/226_InvertBinaryTree.cs) |   
 | 230   | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [C#](C%23/230_KthSmallestElementInABST.cs) |  
 | 231   | [Power of Two](https://leetcode.com/problems/power-of-two/) | [C#](C%23/231_PowerOfTwo.cs) |   
