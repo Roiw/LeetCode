@@ -129,6 +129,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 349   | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)  | [C#](C%23/349_IntersectionOfTwoArrays.cs) 
 | 350   | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  | [C#](C%23/350_IntersectionOfTwoArraysII.cs) 
 | 359   | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)  | [C#](C%23/359_LoggerRateLimiter.cs) |   
+| 364   | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)  | [JavaScript](JavaScript/364_NestedListWeightSumII.cs) 
 | 367   | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)  | [C#](C%23/367_ValidPerfectSquare.cs) 
 | 368   | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)  | [C#](C%23/368_LargestDivisibleSubset.cs) 
 | 374   | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)  | [C#](C%23/374_GuessNumberHigherOrLower.cs) 
