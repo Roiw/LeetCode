@@ -4,7 +4,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 
 | #     | Problem Link                                           |  My Solution                                           |
 | ----- | -----------------------------------------------------  | -----------------------------------------------------  |
-| 001   | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Python](Python/001_TwoSum.py), [C#](C%23/1_TwoSum.cs), [Kotlin](Kotlin/1_TwoSum.kt) |
+| 001   | [Two Sum](https://leetcode.com/problems/two-sum/)  | [C#](C%23/1_TwoSum.cs), [JavaScript](JavaScript/1_TwoSum.js), [Kotlin](Kotlin/1_TwoSum.kt), [Python](Python/001_TwoSum.py),  |
 | 002   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | [Python](Python/002_AddTwoNumbers.py) |      
 | 003   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  | [C#](C%23/3_LongestSubstringWithoutRepeatingCharacters.cs) |      
 | 004   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  | [JavaScript](JavaScript/4_MedianOfTwoSortedArrays.js) |   
