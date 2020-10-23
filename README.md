@@ -258,6 +258,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1130   | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)  | [C#](C%23/1130_MinimumCostTreeFromLeafValues.cs) |     
 | 1143   | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)  | [C#](C%23/1143_LongestCommonSubsequence.cs) |     
 | 1161   | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)  | [C#](C%23/1161_MaximumLevelSumOfABinaryTree.cs) |     
+| 1162   | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)  | [C#](C%23/1162_AsFarFromLandAsPossible.cs) |     
 | 1165   | [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/)  | [C#](C%23/1165_SingleRowKeyboard.cs) |     
 | 1207   | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)  | [C#](C%23/1207_UniqueNumberOfOccurrences.cs) |     
 | 1221   | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)  | [C#](C%23/1221_SplitAStringInBalancedStrings.cs) |  
