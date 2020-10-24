@@ -210,6 +210,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 867   | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)  | [JavaScript](JavaScript/867_TransposeMatrix.js) |   
 | 876   | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)  | [C#](C%23/876_MiddleOfTheLinkedList.cs), [Kotlin](Kotlin/876_MiddleOfTheLinkedList.kt)  |      
 | 886   | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)  | [C#](C%23/886_PossibleBipartition.cs) |     
+| 888   | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)  | [C#](C%23/888_FairCandySwap.cs) |     
 | 890   | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)  | [C#](C%23/890_FindAndReplacePattern.cs) |      
 | 894   | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)  | [C#](C%23/894_AllPossibleFullBinaryTrees.cs) |      
 | 895   | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)  | [C#](C%23/895_MaximumFrequencyStack.cs) |      
