@@ -303,3 +303,4 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1608   | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)  | [C#](C%23/1608_SpecialArrayWithXElementsGreaterThanOrEqualX.cs) |       
 | 1609   | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)  | [C#](C%23/1609_EvenOddTree.cs) |      
 | 1624   | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)  | [JavaScript](JavaScript/1624_LargestSubstringBetweenTwoEqualCharacters.js) |       
+| 1629   | [Slowest Key](https://leetcode.com/problems/slowest-key/)  | [C#](C%23/1629_SlowestKey.cs) |       
