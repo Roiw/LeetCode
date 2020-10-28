@@ -50,7 +50,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 073   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)  | [C#](C%23/73_SetMatrixZeroes.cs) |   
 | 074   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)  | [C#](C%23/74_SearchA2DMatrix.cs) |   
 | 075   | [Sort Colors](https://leetcode.com/problems/sort-colors/)  | [C#](C%23/75_SortColors.cs) |   
-| 077   | [Combinations](https://leetcode.com/problems/combinations/)  | [C#](C%23/77_Combinations.cs) |   
+| 077   | [Combinations](https://leetcode.com/problems/combinations/)  | [C#](C%23/77_Combinations.cs), [Python](Python/77_Combinations.py) |   
 | 078   | [Subsets](https://https://leetcode.com/problems/subsets/)  | [C#](C%23/78_Subsets.cs) |   
 | 079   | [Word Search](https://leetcode.com/problems/word-search/)  | [C#](C%23/79_WordSearch.cs) |   
 | 080   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)  | [C#](C%23/80_RemoveDuplicatesFromSortedArrayII.cs) |   
