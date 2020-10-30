@@ -8,6 +8,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 002   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | [Python](Python/002_AddTwoNumbers.py) |      
 | 003   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  | [C#](C%23/3_LongestSubstringWithoutRepeatingCharacters.cs) |      
 | 004   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  | [JavaScript](JavaScript/4_MedianOfTwoSortedArrays.js) |   
+| 005   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  | [C#](C%23/5_LongestPalindromicSubstring.cs) |   
 | 007   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)  | [C#](C%23/7_ReverseInteger.cs) |   
 | 009   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)  | [C#](C%23/9_PalindromeNumber.cs), [Python](Python/9_PalindromeNumber.py) |  
 | 008   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)  | [C#](C%23/8_StringToInteger(atoi).cs) |   
