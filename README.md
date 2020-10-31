@@ -15,7 +15,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 013   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  | [Python](Python/013_RomantoInteger.py) |   
 | 015   | [3Sum](https://leetcode.com/problems/3sum/)  | [Python](Python/15_3Sum.py) |   
 | 017   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  | [C#](C%23/17_LetterCombinationsOfAPhoneNumber.cs) |   
-| 019   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  | [C#](C%23/19_RemoveNthNodeFromEndOfList.cs) |   
+| 019   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  | [C#](C%23/19_RemoveNthNodeFromEndOfList.cs), [Python](Python/19_RemoveNthNodeFromEndOfList.py) |   
 | 020   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  | [C#](C%23/20_ValidParentheses.cs) |   
 | 021   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | [C#](C%23/21_MergeTwoSortedLists.cs) |   
 | 022   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)  | [C#](C%23/22_GenerateParentheses.cs) |   
