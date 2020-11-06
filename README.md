@@ -54,7 +54,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 075   | [Sort Colors](https://leetcode.com/problems/sort-colors/)  | [C#](C%23/75_SortColors.cs) |   
 | 077   | [Combinations](https://leetcode.com/problems/combinations/)  | [C#](C%23/77_Combinations.cs), [Python](Python/77_Combinations.py) |   
 | 078   | [Subsets](https://https://leetcode.com/problems/subsets/)  | [C#](C%23/78_Subsets.cs) |   
-| 079   | [Word Search](https://leetcode.com/problems/word-search/)  | [C#](C%23/79_WordSearch.cs) |   
+| 079   | [Word Search](https://leetcode.com/problems/word-search/)  | [C#](C%23/79_WordSearch.cs), [Python](Python/79_WordSearch.py) |   
 | 080   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)  | [C#](C%23/80_RemoveDuplicatesFromSortedArrayII.cs) |   
 | 082   | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)  | [Python](Python/82_RemoveDuplicatesFromSortedListII.py) |       
 | 083   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | [Python](Python/83_RemoveDuplicatesFromSortedList.py) |       
