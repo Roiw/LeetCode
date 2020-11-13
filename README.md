@@ -59,6 +59,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 082   | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)  | [Python](Python/82_RemoveDuplicatesFromSortedListII.py) |       
 | 083   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | [Python](Python/83_RemoveDuplicatesFromSortedList.py) |       
 | 092   | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)  | [C#](C%23/92_ReverseLinkedListII.cs) |
+| 094   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)  | [C#](C%23/94_BinaryTreeInorderTraversal.cs) |
 | 096   | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)  | [C#](C%23/96_UniqueBinarySearchTrees.cs)    
 | 100   | [Same Tree](https://leetcode.com/problems/same-tree/)  | [C#](C%23/100_SameTree.cs), [Python](Python/100_SameTree.py) |       
 | 103   | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)  | [C#](C%23/103_BinaryTreeZigzagLevelOrderTraversal.cs) |   
