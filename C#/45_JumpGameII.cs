@@ -1,11 +1,16 @@
 /*
 
     Dynamic Programming O(N)
-    The Plan:
-        - Get a value from the nums array. This is the number of STEPS we can consume until we need to jump again.
-        - Verify the max range we can reach with that set of STEPS
-        - After consuming all the STEPS, we increase our jump counter and add the remaining steps to reach max range.
 
+    The Plan:
+        - Keep three variables, Jumps, MaxRange, CurrentRange
+        - Jumps is the amount of jumps we took.
+        - MaxRange is the maximum range we can reach, this is given by the max value that we jumped over.
+        - CurrentRange is the amount of elements we can still jump over.
+        - When CurrentRange reaches 0 we must get the MaxRange
+            So CurrentRange becomes: MaxRange - i
+        - For every new place we update MaxRange:
+            MaxRange = Math.Max(MaxRange, nums[i] + i)
 */
 
 public class Solution {
