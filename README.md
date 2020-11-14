@@ -167,6 +167,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 468   | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/)  | [C#](C%23/468_ValidateIPAddress.cs) |   
 | 476   | [Number Complement](https://leetcode.com/problems/number-complement/)  | [C#](C%23/476_NumberComplement.cs) |   
 | 475   | [Heaters](https://leetcode.com/problems/heaters/)  | [Python](Python/475_Heaters.py) |   
+| 495   | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)  | [C#](C%23/495_TeemoAttacking.cs) 
 | 496   | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)  | [C#](C%23/496_NextGreaterElementI.cs) |   
 | 503   | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)  | [C#](C%23/503_NextGreaterElementII.cs) |   
 | 506   | [Relative Ranks](https://leetcode.com/problems/relative-ranks/)  | [C#](C%23/506_RelativeRanks.cs) |   
