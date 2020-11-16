@@ -317,3 +317,4 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1609   | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)  | [C#](C%23/1609_EvenOddTree.cs) |      
 | 1624   | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)  | [JavaScript](JavaScript/1624_LargestSubstringBetweenTwoEqualCharacters.js) |       
 | 1629   | [Slowest Key](https://leetcode.com/problems/slowest-key/)  | [C#](C%23/1629_SlowestKey.cs) |       
+| 1646   | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)  | [C#](C%23/1646_GetMaximumInGeneratedArray.cs) |     
