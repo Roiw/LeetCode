@@ -12,6 +12,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 007   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)  | [C#](C%23/7_ReverseInteger.cs) |   
 | 009   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)  | [C#](C%23/9_PalindromeNumber.cs), [Python](Python/9_PalindromeNumber.py) |  
 | 008   | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)  | [C#](C%23/8_StringToInteger(atoi).cs) |   
+| 012   | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)  | [C#](C%23/12_IntegerToRoman.cs) |   
 | 013   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  | [Python](Python/013_RomantoInteger.py) |   
 | 015   | [3Sum](https://leetcode.com/problems/3sum/)  | [Python](Python/15_3Sum.py) |   
 | 017   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  | [C#](C%23/17_LetterCombinationsOfAPhoneNumber.cs) |   
