@@ -11,6 +11,7 @@ public class Solution {
          3 - Go left until you cant anymore.
          4 - Go up until you can't.
          // Pay attention there is a twist when going up!
+         O(N) S(1)
          */
         
         HashSet<(int,int)> visited = new HashSet<(int,int)>();
@@ -66,5 +67,54 @@ public class Solution {
             ans.Add(matrix[x][y]);
         }
         return ans;
+    }
+}
+
+/*
+
+    The Plan O(N) S(N):
+        - Set a direction to move
+        - Move on setted directions until can't move
+        - Go to next direction.
+        - Repeat until can't go to any direction.
+        
+*/
+
+public class Solution {
+    public IList<int> SpiralOrder(int[][] matrix) {
+        
+        // The answer.
+        List<int> answer = new List<int>();
+        
+        // The valid directions.
+        List<(int,int)> directions = new List<(int,int)>() 
+        { (0,1), (1,0), (0,-1), (-1,0)};
+        
+        // Visited positions.
+        HashSet<(int,int)> visited = new HashSet<(int,int)>();
+        
+        int currentDirection = 0;
+        
+        int x = 0;
+        int y = -1;
+        
+        while(answer.Count < matrix.Length * matrix[0].Length){
+            
+            (int dX, int dY) = directions[currentDirection];
+            int pX = dX + x;
+            int pY = dY + y;
+            
+            bool good = pX >= 0 && pX < matrix.Length && pY >= 0 && pY < matrix[pX].Length && !visited.Contains((pX, pY));
+            
+            // If valid position.
+            if (good) {
+                x = pX; y = pY;
+                answer.Add(matrix[x][y]);
+                visited.Add((x, y));
+            } else {
+                currentDirection = currentDirection == 3? 0 : currentDirection + 1;
+            }
+        }
+        return answer;
     }
 }
