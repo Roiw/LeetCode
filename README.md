@@ -298,6 +298,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1323   | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)  | [C#](C%23/1323_Maximum69Number.cs) |   
 | 1325   | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)  | [C#](C%23/1325_DeleteLeavesWithAGivenValue.cs) |   
 | 1329   | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)  | [C#](C%23/1329_SortTheMatrixDiagonally.cs) |   
+| 1334   | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)  | [C#](C%23/1334_FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.cs) |   
 | 1342   | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)  | [C#](C%23/1342_NumberOfStepsToReduceANumberToZero.cs) |   
 | 1344   | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)  | [C#](C%23/1344_AngleBetweenHandsOfAClock.cs) |    
 | 1347   | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)  | [C#](C%23/1347_MinimumNumberOfStepsToMakeTwoStringsAnagram.cs) |     
