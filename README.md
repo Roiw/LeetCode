@@ -315,6 +315,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1477   | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)  | [C#](C%23/1477_FindTwoNonOverlappingSubArraysEachWithTargetSum.cs) |     
 | 1525   | [Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/)  | [C#](C%23/1525_NumberOfGoodWaysToSplitAString.cs) |     
 | 1528   | [Shuffle String](https://leetcode.com/problems/shuffle-string/)  | [Python](Python/1528_ShuffleString.py) |     
+| 1534   | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)  | [Python](Python/1534_CountGoodTriplets.py) |     
 | 1535   | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/)  | [C#](C%23/1535_FindTheWinnerOfAnArrayGame.cs) |     
 | 1556   | [Thousand Separator](https://leetcode.com/problems/thousand-separator/)  | [C#](C%23/1556_ThousandSeparator.cs) |     
 | 1582   | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)  | [C#](C%23/1582_SpecialPositionsInABinaryMatrix.cs) | 
