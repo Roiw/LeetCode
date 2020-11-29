@@ -327,3 +327,4 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1629   | [Slowest Key](https://leetcode.com/problems/slowest-key/)  | [C#](C%23/1629_SlowestKey.cs) |       
 | 1646   | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)  | [C#](C%23/1646_GetMaximumInGeneratedArray.cs) |     
 | 1647   | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)  | [C#](C%23/1647_MinimumDeletionstoMakeCharacterFrequenciesUnique.cs) |     
+| 1672   | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)  | [Python](Python/1672_RichestCustomerWealth.py) | 
