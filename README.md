@@ -309,6 +309,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1374   | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)  | [C#](C%23/1374_GenerateAStringWithCharactersThatHaveOddCounts.cs) |     
 | 1379   | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)  | [C#](C%23/1379_FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.cs) |     
 | 1389   | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)  | [Python](Python/1389_CreateTargetArrayInTheGivenOrder.py) |     
+| 1395   | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)  | [Python](Python/1395_CountNumberOfTeams.py) | 
 | 1436   | [Destination City](https://leetcode.com/problems/destination-city/)  | [C#](C%23/1436_DestinationCity.cs) |     
 | 1446   | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)  | [JavaScript](JavaScript/1446_DestinationCity.js) |    
 | 1470   | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)  | [C#](C%23/1470_ShuffleTheArray.cs) |     
