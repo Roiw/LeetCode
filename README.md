@@ -103,6 +103,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 216   | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)  | [C#](C%23/216_CombinationSumIII.cs) |    
 | 215   | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)  | [C#](C%23/215_KthLargestElementInAnArray.cs) |    
 | 217   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  | [Python](Python/217_ContainsDuplicate.py), [C#](C%23/217_ContainsDuplicate.cs) |    
+| 219   | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Python](Python/219_ContainsDuplicateII.py) |  
 | 221   | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [C#](C%23/221_MaximalSquare.cs) |  
 | 222   | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [C#](C%23/222_CountCompleteTreeNodes.cs) |   
 | 224   | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [JavaScript](C%23/224_BasicCalculator.js) |   
