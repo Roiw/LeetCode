@@ -317,6 +317,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1470   | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)  | [C#](C%23/1470_ShuffleTheArray.cs) |     
 | 1476   | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)  | [Python](Python/1476_SubrectangleQueries.py) |  
 | 1477   | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)  | [C#](C%23/1477_FindTwoNonOverlappingSubArraysEachWithTargetSum.cs) |     
+| 1480   | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  | [Python](Python/1480_RunningSumOf1dArray.py) | 
 | 1525   | [Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/)  | [C#](C%23/1525_NumberOfGoodWaysToSplitAString.cs) |     
 | 1528   | [Shuffle String](https://leetcode.com/problems/shuffle-string/)  | [Python](Python/1528_ShuffleString.py) |     
 | 1534   | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)  | [Python](Python/1534_CountGoodTriplets.py) |     
