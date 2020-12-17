@@ -219,6 +219,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 814   | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)  | [C#](C%23/814_BinaryTreePruning.cs) 
 | 831   | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/)  | [C#](C%23/831_MaskingPersonalInformation.cs) 
 | 821   | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)  | [Python](Python/821_ShortestDistanceToACharacter.py) |
+| 826   | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)  | [Python](Python/826_MostProfitAssigningWork.py) |
 | 844   | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  | [C#](C%23/844_BackspaceStringCompare.cs), [Python](Python/844_BackspaceStringCompare.py) 
 | 852   | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)  | [C#](C%23/852_PeakIndexInAMountainArray.cs) 
 | 856   | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)  | [C#](C%23/856_ScoreOfParentheses.cs) 
