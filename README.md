@@ -335,3 +335,4 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1647   | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)  | [C#](C%23/1647_MinimumDeletionstoMakeCharacterFrequenciesUnique.cs) |     
 | 1662   | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)  | [Python](Python/1662_CheckIfTwoStringArraysAreEquivalent.py) |     
 | 1672   | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)  | [Python](Python/1672_RichestCustomerWealth.py) | 
+| 1678   | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)  | [Python](Python/1678_Goal_Parser_Interpretation.py) | 
