@@ -263,6 +263,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1028   | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)  | [C#](C%23/1028_RecoverATreeFromPreorderTraversal.cs) |
 | 1029   | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)  | [C#](C%23/1029_TwoCityScheduling.cs) |
 | 1035   | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)  | [C#](C%23/1035_UncrossedLines.cs) |
+| 1038   | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)  | [Python](Python/1038_BinarySearchTreeToGreaterSumTree.py) | 
 | 1041   | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)  | [C#](C%23/1041_RobotBoundedInCircle.cs) |
 | 1042   | [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)  | [C#](C%23/1042_FlowerPlantingWithNoAdjacent.cs) |
 | 1046   | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)  | [C#](C%23/1046_LastStoneWeight.cs) |       
