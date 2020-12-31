@@ -1,24 +1,20 @@
 '''
-The Plan
+The Plan O(N)
 
-- Two similar piles and one lower pile.
-- Sort piles get top two and last. The second from the top we add to total
+- Sort the piles list.
+- For every set of 3 sum the middle pile size.
 
 '''
 class Solution:
     def maxCoins(self, piles: List[int]) -> int:
         piles.sort()
-        deq = deque()
-        
-        # Creates a deque
-        for i in piles:
-            deq.append(i)
-            
-        # Calulates
+        size = len(piles)
         total = 0
-        while len(deq) > 0:
-            deq.pop()
-            total += deq.pop()
-            deq.popleft()
+        j = size
+        for i in range(size // 3):
+            j -= 2
+            total += piles[j]
+            
         return total
+        
         
