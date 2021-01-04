@@ -216,6 +216,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 763   | [Partition Labels](https://leetcode.com/problems/partition-labels/)  | [C#](C%23/763_PartitionLabels.cs) 
 | 771   | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)  | [C#](C%23/771_JewelsAndStones.cs) 
 | 797   | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)  | [C#](C%23/797_AllPathsFromSourceToTarge.cs), [Python](Python/797_AllPathsFromSourceToTarget.py)
+| 804   | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)  | [Python](Python/804_UniqueMorseCodeWords.py) |
 | 807   | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)  | [C#](C%23/807_MaxIncreaseToKeepCitySkyline.cs) 
 | 811   | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)  | [C#](C%23/811_SubdomainVisitCount.cs) 
 | 814   | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)  | [C#](C%23/814_BinaryTreePruning.cs) 
