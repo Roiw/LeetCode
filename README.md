@@ -330,6 +330,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1534   | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)  | [Python](Python/1534_CountGoodTriplets.py) |     
 | 1535   | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/)  | [C#](C%23/1535_FindTheWinnerOfAnArrayGame.cs) |     
 | 1556   | [Thousand Separator](https://leetcode.com/problems/thousand-separator/)  | [C#](C%23/1556_ThousandSeparator.cs) |     
+| 1557   | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)  | [Python](Python/1557_MinimumNumberOfVerticesToReachAllNodes.py) | 
 | 1561   | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)  | [Python](Python/1561_MaximumNumberofCoinsYouCanGet.py) | 
 | 1572   | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)  | [Python](Python/1572_MatrixDiagonalSum.py) | 
 | 1582   | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)  | [C#](C%23/1582_SpecialPositionsInABinaryMatrix.cs) | 
