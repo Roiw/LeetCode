@@ -300,6 +300,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1295   | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)  | [C#](C%23/1295_FindNumbersWithEvenNumberOfDigits.cs) |  
 | 1302   | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)  | [C#](C%23/1302_DeepestLeavesSum.cs), [JavaScript](JavaScript/1302_DeepestLeavesSum.js) |     
 | 1305   | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)  | [C#](C%23/1305_AllElementsInTwoBinarySearchTrees.cs) |     
+| 1309   | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)  | [Python](Python/1309_DecryptStringFromAlphabetToIntegerMapping.py) |   
 | 1314   | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)  | [Python](Python/1314_MatrixBlockSum.py) |  
 | 1315   | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)  | [C#](C%23/1315_SumOfNodesWithEven-ValuedGrandparent.cs) |     
 | 1323   | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)  | [C#](C%23/1323_Maximum69Number.cs) |   
