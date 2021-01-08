@@ -295,9 +295,10 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1281   | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)  | [C#](C%23/1281_SubtractTheProductAndSumOfDigitsOfAnInteger.cs) |  
 | 1282   | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)  | [C#](C%23/1282_GroupThePeopleGivenTheGroupSizeTheyBelongTo.cs) |  
 | 1287   | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)  | [C#](C%23/1287_ElementAppearingMoreThan25InSortedArray.cs) |  
-| 1290   | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)  | [C#](C%23/1290_ConvertBinaryNumberInALinkedListToInteger) |  
-| 1291   | [Sequential Digits](https://leetcode.com/problems/sequential-digits/)  | [C#](C%23/1291_SequentialDigits) |  
+| 1290   | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)  | [C#](C%23/1290_ConvertBinaryNumberInALinkedListToInteger.cs) |  
+| 1291   | [Sequential Digits](https://leetcode.com/problems/sequential-digits/)  | [C#](C%23/1291_SequentialDigits.cs) |  
 | 1295   | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)  | [C#](C%23/1295_FindNumbersWithEvenNumberOfDigits.cs) |  
+| 1299   | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)  | [Python](Python/1299_ReplaceElementsWithGreatestElementOnRightSide.py) |     
 | 1302   | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)  | [C#](C%23/1302_DeepestLeavesSum.cs), [JavaScript](JavaScript/1302_DeepestLeavesSum.js) |     
 | 1305   | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)  | [C#](C%23/1305_AllElementsInTwoBinarySearchTrees.cs) |     
 | 1309   | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)  | [Python](Python/1309_DecryptStringFromAlphabetToIntegerMapping.py) |   
