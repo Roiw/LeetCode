@@ -258,8 +258,8 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 997   | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)  | [C#](C%23/997_FindTheTownJudge.cs) |      
 | 1002   | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)  | [C#](C%23/1002_FindCommonCharacters.cs) |   
 | 1007   | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)  | [C#](C%23/1007_MinimumDominoRotationsForEqualRow.cs) |   
-| 1108   | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)  | [C#](C%23/1108_DefangingAnIPAddress.cs) |   
 | 1008   | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)  | [C#](C%23/1008_ConstructBinarySearchTreeFromPreorderTraversal.cs) |   
+| 1014   | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)  | [Python](Python/1014_BestSightseeingPair.py) | 
 | 1019   | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)  | [C#](C%23/1019_NextGreaterNodeInLinkedList.cs) | 
 | 1021   | [Remove Outermost Parenthesis](https://leetcode.com/problems/remove-outermost-parentheses/)  | [C#](C%23/1021_RemoveOutermostParentheses.cs) | 
 | 1028   | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)  | [C#](C%23/1028_RecoverATreeFromPreorderTraversal.cs) |
@@ -275,7 +275,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1091   | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)  | [C#](C%23/1091_ShortestPathInBinaryMatrix.cs) |     
 | 1106   | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/)  | [C#](C%23/1106_ParsingABooleanExpression.cs) |     
 | 1104   | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/)  | [C#](C%23/1104_PathInZigzagLabelledBinaryTree.cs) |   
-| 1108   | [Defanging An Ip Address](https://leetcode.com/problems/defanging-an-ip-address/)  | [Python](Python/1108_DefangingAnIpAddress.py) |     
+| 1108   | [Defanging An Ip Address](https://leetcode.com/problems/defanging-an-ip-address/)  | [C#](C%23/1108_DefangingAnIPAddress.cs), [Python](Python/1108_DefangingAnIpAddress.py) |     
 | 1110   | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)  | [C#](C%23/1110_DeleteNodesAndReturnForest.cs) |     
 | 1123   | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)  | [C#](C%23/1123_LowestCommonAncestorOfDeepestLeaves.cs) |     
 | 1129   | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)  | [C#](C%23/1129_ShortestPathWithAlternatingColors.cs) |     
