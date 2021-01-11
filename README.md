@@ -65,6 +65,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 096   | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)  | [C#](C%23/96_UniqueBinarySearchTrees.cs)    
 | 100   | [Same Tree](https://leetcode.com/problems/same-tree/)  | [C#](C%23/100_SameTree.cs), [Python](Python/100_SameTree.py) |       
 | 103   | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)  | [C#](C%23/103_BinaryTreeZigzagLevelOrderTraversal.cs) |   
+| 104   | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  | [Python](Python/104_MaximumDepthOfBinaryTree.py) |   
 | 106   | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)  | [Python](Python/106_ConstructBinaryTreeFromInorderAndPostorderTraversal.py) |       
 | 107   | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)  | [C#](C%23/107_BinaryTreeLevelOrderTraversalII.cs), [JavaScript](JavaScript/107_BinaryTreeLevelOrderTraversalII.js), [Python](Python/107_BinaryTreeLevelOrderTraversalII.py)|   
 | 112   | [Path Sum](https://leetcode.com/problems/path-sum/)  | [C#](C%23/112_PathSum.cs) |   
