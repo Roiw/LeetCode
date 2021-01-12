@@ -192,6 +192,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 561   | [Array Partition I](https://leetcode.com/problems/array-partition-i/)  | [C#](C%23/561_ArrayPartitionI.cs) 
 | 567   | [Permutation in String](https://leetcode.com/problems/permutation-in-string/)  | [C#](C%23/567_PermutationInString.cs) 
 | 575   | [Distribute Candies](https://leetcode.com/problems/distribute-candies/)  | [Python](Python/575_DistributeCandies.py) |     
+| 589   | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)  | [Python](Python/589_N-aryTreePreorderTraversal.py) |   
 | 590   | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)  | [C#](C%23/590_N-aryTreePostorderTraversal.cs)  
 | 605   | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)  | [C#](C%23/605_CanPlaceFlowers.cs)  
 | 621   | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)  | [C#](C%23/621_TaskScheduler.cs), [Python](Python/621_TaskScheduler.py)  
