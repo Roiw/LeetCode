@@ -264,6 +264,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1014   | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)  | [Python](Python/1014_BestSightseeingPair.py) | 
 | 1019   | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)  | [C#](C%23/1019_NextGreaterNodeInLinkedList.cs) | 
 | 1021   | [Remove Outermost Parenthesis](https://leetcode.com/problems/remove-outermost-parentheses/)  | [C#](C%23/1021_RemoveOutermostParentheses.cs) | 
+| 1022   | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)  | [Python](Python/1022_SumOfRootToLeafBinaryNumbers.py) | 
 | 1028   | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)  | [C#](C%23/1028_RecoverATreeFromPreorderTraversal.cs) |
 | 1029   | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)  | [C#](C%23/1029_TwoCityScheduling.cs) |
 | 1035   | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)  | [C#](C%23/1035_UncrossedLines.cs) |
