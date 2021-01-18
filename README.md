@@ -261,7 +261,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1002   | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)  | [C#](C%23/1002_FindCommonCharacters.cs) |   
 | 1007   | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)  | [C#](C%23/1007_MinimumDominoRotationsForEqualRow.cs) |   
 | 1008   | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)  | [C#](C%23/1008_ConstructBinarySearchTreeFromPreorderTraversal.cs) |   
-| 1014   | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)  | [Python](Python/1014_BestSightseeingPair.py) | 
+| 1014   | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)  | [Python](Python/1014_BestSightseeingPair.py) |  
 | 1019   | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)  | [C#](C%23/1019_NextGreaterNodeInLinkedList.cs) | 
 | 1021   | [Remove Outermost Parenthesis](https://leetcode.com/problems/remove-outermost-parentheses/)  | [C#](C%23/1021_RemoveOutermostParentheses.cs) | 
 | 1022   | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)  | [Python](Python/1022_SumOfRootToLeafBinaryNumbers.py) | 
@@ -290,6 +290,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1162   | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)  | [C#](C%23/1162_AsFarFromLandAsPossible.cs) |     
 | 1165   | [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/)  | [C#](C%23/1165_SingleRowKeyboard.cs) |     
 | 1207   | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)  | [C#](C%23/1207_UniqueNumberOfOccurrences.cs) |     
+| 1217   | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)  | [Python](Python/1217_MinimumCostToMoveChipsToTheSamePosition.py) |
 | 1221   | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)  | [C#](C%23/1221_SplitAStringInBalancedStrings.cs) |  
 | 1222   | [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)  | [C#](C%23/1222_QueensThatCanAttackTheKing.cs) |  
 | 1229   | [1229. Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/)  | [C#](C%23/1229_MeetingScheduler.cs) |  
