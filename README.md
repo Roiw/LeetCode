@@ -135,6 +135,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 304   | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)  | [C#](C%23/304_RangeSumQuery2DImmutable.cs) |
 | 309   | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python](Python/309_BestTimeToBuyAndSellStockWithCooldown.py) |   
 | 312   | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Python](Python/312_BurstBalloons.py) | 
+| 316   | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Python](Python/316_RemoveDuplicateLetters.py) | 
 | 328   | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)  | [C#](C%23/328_OddEvenLinkedList.cs) |
 | 338   | [Counting Bits](https://leetcode.com/problems/counting-bits/)  | [C#](C%23/338_CountingBits.cs) 
 | 342   | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python](Python/342_PowerOfFour.py) |  
