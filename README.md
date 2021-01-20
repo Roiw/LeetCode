@@ -273,7 +273,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1041   | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)  | [C#](C%23/1041_RobotBoundedInCircle.cs) |
 | 1042   | [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)  | [C#](C%23/1042_FlowerPlantingWithNoAdjacent.cs) |
 | 1046   | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)  | [C#](C%23/1046_LastStoneWeight.cs) |       
-| 1047   | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)  | [C#](C%23/1047_RemoveAllAdjacentDuplicatesInString.cs) |       
+| 1047   | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)  | [C#](C%23/1047_RemoveAllAdjacentDuplicatesInString.cs), [Python](Python/1047_RemoveAllAdjacentDuplicatesInString.py) |       
 | 1051   | [Height Checker](https://leetcode.com/problems/height-checker/)  | [C#](C%23/1051_HeightChecker.cs) |       
 | 1055   | [Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/)  | [C#](C%23/1055_ShortestWayToFormString.cs) |     
 | 1090   | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)  | [Python](Python/1190_ReverseSubstringsBetweenEachPairOfParentheses.py) | 
