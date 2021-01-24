@@ -330,6 +330,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1395   | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)  | [Python](Python/1395_CountNumberOfTeams.py) | 
 | 1433   | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)  | [Python](Python/1433_CheckIfAStringCanBreakAnotherString.py) | 
 | 1436   | [Destination City](https://leetcode.com/problems/destination-city/)  | [C#](C%23/1436_DestinationCity.cs) |     
+| 1441   | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)  | [Python](Python/1441_BuildAnArrayWithStackOperations  .py) | 
 | 1446   | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)  | [JavaScript](JavaScript/1446_DestinationCity.js) |    
 | 1464   | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)  | [Python](Python/1464_MaximumProductOfTwoElementsInAnArray.py) |  
 | 1470   | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)  | [C#](C%23/1470_ShuffleTheArray.cs) |     
