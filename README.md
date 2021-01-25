@@ -112,6 +112,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 226   | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C#](C%23/226_InvertBinaryTree.cs) |   
 | 230   | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [C#](C%23/230_KthSmallestElementInABST.cs) |  
 | 231   | [Power of Two](https://leetcode.com/problems/power-of-two/) | [C#](C%23/231_PowerOfTwo.cs) |   
+| 232   | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Python](Python/232_ImplementQueueUsingStacks.py) | 
 | 234   | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [C#](C%23/234_PalindromeLinkedList.cs) |  
 | 236   | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  | [C#](C%23/236_LowestCommonAncestorOfABinaryTree.cs), [Python](Python/236_LowestCommonAncestorOfABinaryTree.py) |    
 | 237   | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C#](C%23/237_DeleteNodeInALinkedList.cs) |   
