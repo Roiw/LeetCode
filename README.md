@@ -251,6 +251,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 933   | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)  | [C#](C%23/933_NumberOfRecentCalls.cs) 
 | 938   | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)  | [C#](C%23/938_RangeSumOfBST.cs) 
 | 942   | [DI String Match](https://leetcode.com/problems/di-string-match/)  | [C#](C%23/942_DIStringMatch.cs) 
+| 946   | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)  | [Python](Python/946_ValidateStackSequences.py) | 
 | 950   | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)  | [C#](C%23/950_RevealCardsInIncreasingOrder.cs) |      
 | 957   | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)  | [C#](C%23/957_PrisonCellsAfterNDays.cs) |      
 | 958   | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)  | [C#](C%23/958_CheckCompletenessOfABinaryTree.cs) |      
