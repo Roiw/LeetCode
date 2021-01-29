@@ -266,6 +266,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 994   | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)  | [C#](C%23/994_RottingOranges.cs) |   
 | 997   | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)  | [C#](C%23/997_FindTheTownJudge.cs) |      
 | 1002   | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)  | [C#](C%23/1002_FindCommonCharacters.cs) |   
+| 1003   | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)  | [Python](Python/1003_CheckIfWordIsValidAfterSubstitutions.py) |   
 | 1007   | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)  | [C#](C%23/1007_MinimumDominoRotationsForEqualRow.cs) |   
 | 1008   | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)  | [C#](C%23/1008_ConstructBinarySearchTreeFromPreorderTraversal.cs) |   
 | 1014   | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)  | [Python](Python/1014_BestSightseeingPair.py) |  
