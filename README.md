@@ -172,6 +172,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 450   | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)  | [C#](C%23/450_DeleteNodeInABST.cs) |   
 | 451   | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)  | [C#](C%23/451_SortCharactersByFrequency.cs) |   
 | 455   | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)  | [Python](Python/455_AssignCookies.py) |   
+| 456   | [132 Pattern](https://leetcode.com/problems/132-pattern/)  | [Python](Python/456_132Pattern.py) |   
 | 459   | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)  | [C#](C%23/459_RepeatedSubstringPattern.cs) |   
 | 461   | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)  | [C#](C%23/461_HammingDistance.cs) |   
 | 463   | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)  | [C#](C%23/461_HammingDistance.cs), [Python](Python/463_IslandPerimeter) |   
