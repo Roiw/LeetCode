@@ -360,6 +360,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1624   | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)  | [JavaScript](JavaScript/1624_LargestSubstringBetweenTwoEqualCharacters.js) |       
 | 1629   | [Slowest Key](https://leetcode.com/problems/slowest-key/)  | [C#](C%23/1629_SlowestKey.cs) |       
 | 1641   | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)  | [Python](Python/1641_CountSortedVowelStrings.py) | 
+| 1642   | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)  | [C#](C%23/1642_FurthestBuildingYouCanReach.cs) |     
 | 1646   | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)  | [C#](C%23/1646_GetMaximumInGeneratedArray.cs) |     
 | 1647   | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)  | [C#](C%23/1647_MinimumDeletionstoMakeCharacterFrequenciesUnique.cs) |     
 | 1662   | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)  | [Python](Python/1662_CheckIfTwoStringArraysAreEquivalent.py) |     
