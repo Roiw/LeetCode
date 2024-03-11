@@ -145,7 +145,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 342   | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python](Python/342_PowerOfFour.py) |  
 | 344   | [Reverse String](https://leetcode.com/problems/reverse-string/)  | [C#](C%23/344_ReverseString.cs) 
 | 347   | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  | [C#](C%23/347_TopKFrequentElements.cs) 
-| 349   | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)  | [C#](C%23/349_IntersectionOfTwoArrays.cs) 
+| 349   | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)  | [C#](C%23/349_IntersectionOfTwoArrays.cs, [Python](Python/349_IntersectionOfTwoArrays.py)| 
 | 350   | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  | [C#](C%23/350_IntersectionOfTwoArraysII.cs) 
 | 359   | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)  | [C#](C%23/359_LoggerRateLimiter.cs) |   
 | 364   | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)  | [JavaScript](JavaScript/364_NestedListWeightSumII.cs) 
