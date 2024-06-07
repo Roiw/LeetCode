@@ -316,7 +316,8 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 1287   | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)  | [C#](C%23/1287_ElementAppearingMoreThan25InSortedArray.cs) |  
 | 1290   | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)  | [C#](C%23/1290_ConvertBinaryNumberInALinkedListToInteger.cs) |  
 | 1291   | [Sequential Digits](https://leetcode.com/problems/sequential-digits/)  | [C#](C%23/1291_SequentialDigits.cs) |  
-| 1295   | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)  | [C#](C%23/1295_FindNumbersWithEvenNumberOfDigits.cs) |  
+| 1295   | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)  | [C#](C%23/1295_FindNumbersWithEvenNumberOfDigits.cs) | 
+| 1296   | [Divide Array in Sets of K Consecutive Numbers](https://https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)  | [C#](C%23/1296_DivideArrayInSetsOfKConsecutiveNumbers.cs)  
 | 1299   | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)  | [Python](Python/1299_ReplaceElementsWithGreatestElementOnRightSide.py) |     
 | 1302   | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)  | [C#](C%23/1302_DeepestLeavesSum.cs), [JavaScript](JavaScript/1302_DeepestLeavesSum.js) |     
 | 1305   | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)  | [C#](C%23/1305_AllElementsInTwoBinarySearchTrees.cs) |     
