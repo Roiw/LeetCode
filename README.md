@@ -187,6 +187,7 @@ My implementation of some Leet Code problems, data structures and algorithms.
 | 509   | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)  | [Python](Python/509_FibonacciNumber.py) |   
 | 515   | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)  | [C#](C%23/515_FindLargestValueInEachTreeRow.cs) |   
 | 520   | [Detect Capital](https://leetcode.com/problems/detect-capital/)  | [Python](Python/520_DetectCapital.py) |   
+| 523   | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)  | [C#](C%23/523_ContinuousSubarraySum.cs) |   
 | 525   | [Contiguous Array](https://leetcode.com/problems/contiguous-array/)  | [C#](C%23/525_ContiguousArray.cs) |   
 | 526   | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)  | [C#](C%23/526_BeautifulArrangement.cs) |   
 | 528   | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)  | [C#](C%23/528_RandomPickWithWeight.cs) |   
